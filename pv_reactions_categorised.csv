@@ -1,0 +1,2461 @@
+report_id,serious,reaction_term,reaction_category
+5801206-7,1,DRUG ADMINISTRATION ERROR,Medication use / administration
+5801206-7,1,OVERDOSE,Medication use / administration
+10003300,1,Vomiting,General symptoms
+10003300,1,Diarrhoea,General symptoms
+10003300,1,Arthralgia,Other / unclassified
+10003300,1,Headache,General symptoms
+10003301,1,Dyspepsia,Other / unclassified
+10003301,1,Renal impairment,Clinical conditions / laboratory findings
+10003302,2,Drug ineffective,Treatment effectiveness
+10003304,2,Drug hypersensitivity,Hypersensitivity / allergic reactions
+10003305,2,Drug hypersensitivity,Hypersensitivity / allergic reactions
+10003306,2,Cough,General symptoms
+10003306,2,Throat irritation,Other / unclassified
+10003307,2,Rhinorrhoea,Other / unclassified
+10003308,2,Unevaluable event,Other / unclassified
+10003308,2,Malaise,General symptoms
+10003309,2,Hepatic enzyme increased,Clinical conditions / laboratory findings
+10003310,2,Back pain,Other / unclassified
+10003311,1,Oedema peripheral,Other / unclassified
+10003311,1,Fluid retention,Other / unclassified
+10003312,1,Pneumonia,Clinical conditions / laboratory findings
+10003312,1,Drug ineffective,Treatment effectiveness
+10003313,2,Swelling,Other / unclassified
+10003313,2,Jaundice,Other / unclassified
+10003314,2,Back pain,Other / unclassified
+10003315,1,Death,Patient outcomes
+10003316,2,Oedema,Other / unclassified
+10003316,2,Fatigue,General symptoms
+10003316,2,Dyspnoea exertional,Other / unclassified
+10003316,2,Fluid retention,Other / unclassified
+10003317,1,Angioedema,Hypersensitivity / allergic reactions
+10003317,1,Laryngeal oedema,Other / unclassified
+10003317,1,Face oedema,Other / unclassified
+10003318,1,Tuberculosis of central nervous system,Other / unclassified
+10003319,1,Cholecystectomy,Other / unclassified
+10003319,1,Nephrolithiasis,Other / unclassified
+10003319,1,Biliary tract disorder,Other / unclassified
+10003319,1,Malaise,General symptoms
+10003320,2,Headache,General symptoms
+10003320,2,Hypotension,Other / unclassified
+10003321,1,Adenoviral haemorrhagic cystitis,Other / unclassified
+10003321,1,Pyrexia,General symptoms
+10003322,2,Tremor,General symptoms
+10003323,2,Fall,Injury / physical events
+10003323,2,Pain in extremity,Other / unclassified
+10003323,2,Hiccups,Other / unclassified
+10003324,2,Malaise,General symptoms
+10003324,2,Ocular hyperaemia,Other / unclassified
+10003325,1,Swelling,Other / unclassified
+10003326,1,Meconium stain,Other / unclassified
+10003326,1,Amniotic cavity infection,Other / unclassified
+10003326,1,Maternal exposure during pregnancy,Other / unclassified
+10003327,1,Respiratory failure,Other / unclassified
+10003327,1,Listeriosis,Other / unclassified
+10003327,1,Pyrexia,General symptoms
+10003327,1,Headache,General symptoms
+10003327,1,Vomiting,General symptoms
+10003327,1,Mental status changes,Other / unclassified
+10003327,1,Meningitis,Other / unclassified
+10003327,1,Pneumonia staphylococcal,Other / unclassified
+10003328,1,Type IV hypersensitivity reaction,Other / unclassified
+10003328,1,Skin toxicity,Other / unclassified
+10003328,1,Palmar-plantar erythrodysaesthesia syndrome,Other / unclassified
+10003328,1,Nail toxicity,Other / unclassified
+10003328,1,Arthralgia,Other / unclassified
+10003328,1,Myalgia,Other / unclassified
+10003328,1,Asthenia,General symptoms
+10003328,1,Diarrhoea,General symptoms
+10003328,1,Neuropathy peripheral,Other / unclassified
+10003329,1,Diarrhoea,General symptoms
+10003329,1,Abdominal pain,Other / unclassified
+10003329,1,Asthenia,General symptoms
+10003329,1,Diarrhoea,General symptoms
+10003329,1,Weight decreased,Other / unclassified
+10003329,1,Abdominal pain,Other / unclassified
+10003329,1,Blood creatinine increased,Other / unclassified
+10003329,1,C-reactive protein increased,Other / unclassified
+10003329,1,Dysuria,Other / unclassified
+10003329,1,Pyrexia,General symptoms
+10003329,1,Blood creatinine increased,Other / unclassified
+10003329,1,C-reactive protein increased,Other / unclassified
+10003329,1,Pleural effusion,Other / unclassified
+10003330,2,Feeling abnormal,General symptoms
+10003331,1,Chemical poisoning,Other / unclassified
+10003331,1,Neck pain,Other / unclassified
+10003331,1,Back pain,Other / unclassified
+10003331,1,Paraesthesia,Other / unclassified
+10003332,2,Proctalgia,Other / unclassified
+10003332,2,Anorectal discomfort,Other / unclassified
+10003332,2,Rectal haemorrhage,Other / unclassified
+10003333,2,Swelling,Other / unclassified
+10003334,2,Dry mouth,Other / unclassified
+10003334,2,Product quality issue,Other / unclassified
+10003335,1,Localised oedema,Other / unclassified
+10003335,1,Oedema peripheral,Other / unclassified
+10003335,1,Fluid retention,Other / unclassified
+10003335,1,Nasal congestion,Other / unclassified
+10003336,1,Metastases to spine,Other / unclassified
+10003336,1,Anxiety,General symptoms
+10003336,1,Renal cyst,Other / unclassified
+10003336,1,Metastases to thorax,Other / unclassified
+10003336,1,Metastases to retroperitoneum,Other / unclassified
+10003336,1,Emotional disorder,Other / unclassified
+10003336,1,Pancreatic carcinoma metastatic,Other / unclassified
+10003336,1,Metastases to liver,Other / unclassified
+10003336,1,Metastases to lung,Other / unclassified
+10003336,1,Emotional distress,Other / unclassified
+10003336,1,Lymphadenopathy,Other / unclassified
+10003336,1,Prostate cancer,Other / unclassified
+10003336,1,Peripheral venous disease,Other / unclassified
+10003337,2,Dysphonia,Other / unclassified
+10003337,2,Throat irritation,Other / unclassified
+10003338,1,Swollen tongue,Other / unclassified
+10003338,1,Pruritus,Other / unclassified
+10003338,1,Rash generalised,Other / unclassified
+10003339,2,Anaemia,Clinical conditions / laboratory findings
+10003340,1,Listeriosis,Other / unclassified
+10003340,1,Pyrexia,General symptoms
+10003340,1,Diarrhoea,General symptoms
+10003340,1,Meningitis,Other / unclassified
+10003341,2,Dizziness,General symptoms
+10003341,2,Oedema,Other / unclassified
+10003341,2,Dyspnoea,General symptoms
+10003342,1,Overdose,Medication use / administration
+10003342,1,General physical health deterioration,Other / unclassified
+10003342,1,Malaise,General symptoms
+10003342,1,Drug ineffective,Treatment effectiveness
+10003343,2,Liver function test abnormal,Other / unclassified
+10003343,2,Liver disorder,Other / unclassified
+10003344,2,Headache,General symptoms
+10003345,1,Haematoma,Other / unclassified
+10003345,1,Thrombocytopenia,Other / unclassified
+10003345,1,International normalised ratio increased,Other / unclassified
+10003346,2,Dyspnoea,General symptoms
+10003346,2,Hypoxia,Other / unclassified
+10003347,1,Device dislocation,Other / unclassified
+10003348,2,Epistaxis,Other / unclassified
+10003348,2,Cough,General symptoms
+10003348,2,Nasal dryness,Other / unclassified
+10003348,2,Nasal congestion,Other / unclassified
+10003348,2,Haemoptysis,Other / unclassified
+10003348,2,Asthenia,General symptoms
+10003349,1,Cerebrovascular accident,Other / unclassified
+10003349,1,Blood pressure increased,Other / unclassified
+10003349,1,Pain,General symptoms
+10003350,2,Malaise,General symptoms
+10003350,2,Gingivitis,Other / unclassified
+10003351,1,Aggression,Other / unclassified
+10003351,1,Violence-related symptom,Other / unclassified
+10003351,1,Anger,Other / unclassified
+10003351,1,Blepharospasm,Other / unclassified
+10003351,1,Suicidal ideation,Other / unclassified
+10003352,2,Oedema peripheral,Other / unclassified
+10003353,2,Dyspnoea,General symptoms
+10003353,2,Drug ineffective,Treatment effectiveness
+10003354,1,Haemoglobin decreased,Clinical conditions / laboratory findings
+10003355,2,Heart rate decreased,Other / unclassified
+10003356,2,Oedema peripheral,Other / unclassified
+10003357,1,Posterior reversible encephalopathy syndrome,Other / unclassified
+10003357,1,Cerebral haemorrhage,Other / unclassified
+10003357,1,Subarachnoid haemorrhage,Other / unclassified
+10003358,2,Dyspnoea,General symptoms
+10003359,1,Erection increased,Other / unclassified
+10003360,2,Hypertension,Other / unclassified
+10003361,1,Hyponatraemia,Other / unclassified
+10003362,2,Gastric disorder,Other / unclassified
+10003362,2,Dyspnoea,General symptoms
+10003363,2,Unevaluable event,Other / unclassified
+10003364,2,Drug hypersensitivity,Hypersensitivity / allergic reactions
+10003364,2,Pruritus,Other / unclassified
+10003364,2,Rash,Other / unclassified
+10003365,2,Oedema,Other / unclassified
+10003365,2,Fluid retention,Other / unclassified
+10003366,2,Oedema,Other / unclassified
+10003367,2,Unevaluable event,Other / unclassified
+10003367,2,Eructation,Other / unclassified
+10003367,2,Chest discomfort,Other / unclassified
+10003368,2,Pollakiuria,Other / unclassified
+10003368,2,Poor quality sleep,Other / unclassified
+10003368,2,Dyspnoea,General symptoms
+10003369,2,Feeling abnormal,General symptoms
+10003370,2,Swelling,Other / unclassified
+10003371,2,Nasal congestion,Other / unclassified
+10003371,2,Seasonal allergy,Other / unclassified
+10003372,2,Nausea,General symptoms
+10003373,2,Nasal congestion,Other / unclassified
+10003375,1,Loss of consciousness,Other / unclassified
+10003375,1,Listeriosis,Other / unclassified
+10003375,1,Pyrexia,General symptoms
+10003375,1,Headache,General symptoms
+10003375,1,Vomiting,General symptoms
+10003375,1,Meningitis,Other / unclassified
+10003376,2,Diarrhoea,General symptoms
+10003376,2,Arthralgia,Other / unclassified
+10003376,2,Nausea,General symptoms
+10003377,2,Malaise,General symptoms
+10003377,2,Weight fluctuation,Other / unclassified
+10003378,2,Dyspnoea,General symptoms
+10003378,2,Tremor,General symptoms
+10003378,2,Bone pain,Other / unclassified
+10003378,2,Presyncope,Other / unclassified
+10003379,2,Nasopharyngitis,Other / unclassified
+10003380,2,Respiratory tract infection,Other / unclassified
+10003380,2,Body temperature,Other / unclassified
+10003380,2,Pneumonia,Clinical conditions / laboratory findings
+10003380,2,Productive cough,Other / unclassified
+10003381,2,No therapeutic response,Other / unclassified
+10003382,2,Blood count abnormal,Other / unclassified
+10003383,2,Unevaluable event,Other / unclassified
+10003384,2,Unevaluable event,Other / unclassified
+10003385,2,Dyspnoea exertional,Other / unclassified
+10003385,2,Fatigue,General symptoms
+10003386,1,Fluid retention,Other / unclassified
+10003386,1,Haemoglobin decreased,Clinical conditions / laboratory findings
+10003387,2,Cellulitis,Other / unclassified
+10003388,2,Dyspnoea,General symptoms
+10003388,2,Dyspnoea exertional,Other / unclassified
+10003388,2,Oedema,Other / unclassified
+10003389,2,Hepatic enzyme decreased,Other / unclassified
+10003390,2,Headache,General symptoms
+10003390,2,Dyspnoea,General symptoms
+10003390,2,Diarrhoea,General symptoms
+10003390,2,Increased appetite,Other / unclassified
+10003390,2,Swelling,Other / unclassified
+10003390,2,Weight increased,Other / unclassified
+10003390,2,Vomiting,General symptoms
+10003391,2,Dyspnoea,General symptoms
+10003392,1,Subdural haematoma,Other / unclassified
+10003393,2,Peripheral swelling,Other / unclassified
+10003394,2,Dyspnoea exertional,Other / unclassified
+10003395,2,Tremor,General symptoms
+10003395,2,Dry mouth,Other / unclassified
+10003396,2,Unevaluable event,Other / unclassified
+10003397,1,Sopor,Other / unclassified
+10003397,1,Drug abuse,Other / unclassified
+10003397,1,Overdose,Medication use / administration
+10003398,1,"Hallucination, visual",Other / unclassified
+10003398,1,Headache,General symptoms
+10003398,1,Insomnia,General symptoms
+10003398,1,Somnolence,General symptoms
+10003398,1,Confusional state,Other / unclassified
+10003399,2,Headache,General symptoms
+10003399,2,Dizziness exertional,Other / unclassified
+10003399,2,Haemoglobin decreased,Clinical conditions / laboratory findings
+10003399,2,Dyspnoea,General symptoms
+10003400,2,Hot flush,Other / unclassified
+10003400,2,Rosacea,Other / unclassified
+10003401,2,Sinusitis,Other / unclassified
+10003402,2,Middle insomnia,Other / unclassified
+10003402,2,Chemotherapy,Other / unclassified
+10003402,2,Dyspnoea,General symptoms
+10003403,2,Sinusitis,Other / unclassified
+10003404,2,Oedema,Other / unclassified
+10003404,2,Weight decreased,Other / unclassified
+10003405,2,Asthenia,General symptoms
+10003405,2,Anaemia,Clinical conditions / laboratory findings
+10003405,2,Tooth disorder,Other / unclassified
+10003406,1,Cognitive disorder,Other / unclassified
+10003406,1,Alopecia,Other / unclassified
+10003407,1,Ileus paralytic,Other / unclassified
+10003407,1,Abdominal pain,Other / unclassified
+10003407,1,Nausea,General symptoms
+10003408,2,Insomnia,General symptoms
+10003409,2,Dyspnoea,General symptoms
+10003409,2,Abdominal distension,Other / unclassified
+10003409,2,Swelling,Other / unclassified
+10003410,2,Dyspnoea,General symptoms
+10003411,2,Laboratory test abnormal,Other / unclassified
+10003412,2,Visual impairment,Other / unclassified
+10003412,2,Adverse reaction,Other / unclassified
+10003413,2,Infusion site infection,Other / unclassified
+10003414,2,Diarrhoea,General symptoms
+10003414,2,Vomiting,General symptoms
+10003414,2,Abdominal discomfort,Other / unclassified
+10003414,2,Malaise,General symptoms
+10003414,2,Dyspepsia,Other / unclassified
+10003415,2,Dizziness,General symptoms
+10003415,2,Loss of consciousness,Other / unclassified
+10003415,2,Fall,Injury / physical events
+10003416,2,Drug ineffective,Treatment effectiveness
+10003417,2,Thirst,Other / unclassified
+10003417,2,Nasal congestion,Other / unclassified
+10003418,2,Oxygen consumption increased,Other / unclassified
+10003418,2,Unevaluable event,Other / unclassified
+10003419,2,Anaemia,Clinical conditions / laboratory findings
+10003419,2,Fatigue,General symptoms
+10003419,2,Fibrosis,Other / unclassified
+10003419,2,Dyspnoea,General symptoms
+10003419,2,Weight decreased,Other / unclassified
+10003420,2,Headache,General symptoms
+10003420,2,Vomiting,General symptoms
+10003420,2,Blood pressure decreased,Other / unclassified
+10003420,2,Nausea,General symptoms
+10003421,2,Insomnia,General symptoms
+10003422,2,Rash,Other / unclassified
+10003423,2,Influenza,Other / unclassified
+10003424,1,Foetal death,Other / unclassified
+10003424,1,Abortion late,Other / unclassified
+10003424,1,Amniotic cavity infection,Other / unclassified
+10003424,1,Maternal exposure during pregnancy,Other / unclassified
+10003425,1,Breast cancer,Other / unclassified
+10003425,1,Device misuse,Other / unclassified
+10003426,1,Uterine perforation,Other / unclassified
+10003426,1,Depression,Other / unclassified
+10003426,1,Anxiety,General symptoms
+10003426,1,Depressed mood,Other / unclassified
+10003426,1,Device issue,Other / unclassified
+10003426,1,Injury,Injury / physical events
+10003426,1,Pain,General symptoms
+10003426,1,Emotional distress,Other / unclassified
+10003427,2,Abdominal distension,Other / unclassified
+10003427,2,Headache,General symptoms
+10003427,2,Tinnitus,Other / unclassified
+10003427,2,Diarrhoea,General symptoms
+10003428,1,Foetal distress syndrome,Other / unclassified
+10003428,1,Intraventricular haemorrhage neonatal,Other / unclassified
+10003428,1,Low birth weight baby,Other / unclassified
+10003428,1,Listeriosis,Other / unclassified
+10003428,1,Pyrexia,General symptoms
+10003428,1,Sepsis,Other / unclassified
+10003428,1,Meningitis,Other / unclassified
+10003428,1,Pneumonia aspiration,Other / unclassified
+10003428,1,Oxygen saturation decreased,Other / unclassified
+10003428,1,Foetal exposure during pregnancy,Other / unclassified
+10003429,1,Meconium stain,Other / unclassified
+10003429,1,Amniotic cavity infection,Other / unclassified
+10003429,1,Maternal exposure during pregnancy,Other / unclassified
+10003430,2,Sinusitis,Other / unclassified
+10003430,2,Auricular haematoma,Other / unclassified
+10003430,2,Fall,Injury / physical events
+10003430,2,Wrist fracture,Other / unclassified
+10003430,2,Excessive cerumen production,Other / unclassified
+10003431,2,Chest pain,Other / unclassified
+10003431,2,Back pain,Other / unclassified
+10003432,1,Oedema peripheral,Other / unclassified
+10003432,1,Fluid retention,Other / unclassified
+10003433,2,Pain,General symptoms
+10003433,2,Weight increased,Other / unclassified
+10003433,2,Peripheral swelling,Other / unclassified
+10003433,2,Liver function test abnormal,Other / unclassified
+10003433,2,Dyspnoea,General symptoms
+10003434,2,Peripheral swelling,Other / unclassified
+10003435,2,Tooth extraction,Other / unclassified
+10003436,2,Syncope,Other / unclassified
+10003436,2,Dizziness,General symptoms
+10003437,1,Fatigue,General symptoms
+10003437,1,Oedema peripheral,Other / unclassified
+10003437,1,Drug ineffective,Treatment effectiveness
+10003437,1,Flushing,Other / unclassified
+10003438,2,Fatigue,General symptoms
+10003438,2,Asthenia,General symptoms
+10003439,2,Unevaluable event,Other / unclassified
+10003439,2,Swelling,Other / unclassified
+10003439,2,Hot flush,Other / unclassified
+10003439,2,Pruritus,Other / unclassified
+10003440,2,Insomnia,General symptoms
+10003441,2,Pain,General symptoms
+10003441,2,Fatigue,General symptoms
+10003441,2,Pain in extremity,Other / unclassified
+10003441,2,Oedema peripheral,Other / unclassified
+10003442,2,Cough,General symptoms
+10003442,2,Chest discomfort,Other / unclassified
+10003443,2,Ear infection,Other / unclassified
+10003444,1,Cardiac failure congestive,Other / unclassified
+10003444,1,Fluid retention,Other / unclassified
+10003444,1,Swelling,Other / unclassified
+10003445,2,Dyspnoea,General symptoms
+10003446,2,Unevaluable event,Other / unclassified
+10003447,2,Unevaluable event,Other / unclassified
+10003447,2,Nasopharyngitis,Other / unclassified
+10003447,2,Malaise,General symptoms
+10003447,2,Cough,General symptoms
+10003448,2,Unevaluable event,Other / unclassified
+10003448,2,Malaise,General symptoms
+10003449,1,Pyelonephritis,Other / unclassified
+10003449,1,Maternal exposure during pregnancy,Other / unclassified
+10003449,1,Normal newborn,Other / unclassified
+10003450,1,Blood pressure fluctuation,Other / unclassified
+10003450,1,Dyspepsia,Other / unclassified
+10003450,1,Allergic cough,Other / unclassified
+10003450,1,Headache,General symptoms
+10003450,1,Malaise,General symptoms
+10003451,1,Fluid retention,Other / unclassified
+10003452,2,Fatigue,General symptoms
+10003452,2,Dyspnoea exertional,Other / unclassified
+10003453,2,Throat irritation,Other / unclassified
+10003453,2,Wheezing,Other / unclassified
+10003453,2,Dyspnoea,General symptoms
+10003454,2,Dyspnoea,General symptoms
+10003455,2,Dental pulp disorder,Other / unclassified
+10003456,2,Therapeutic response decreased,Other / unclassified
+10003457,2,Cough,General symptoms
+10003458,1,Fluid overload,Other / unclassified
+10003459,2,Trigeminal neuralgia,Other / unclassified
+10003459,2,Pain in jaw,Other / unclassified
+10003459,2,Facial pain,Other / unclassified
+10003460,2,Cough,General symptoms
+10003461,2,Peripheral swelling,Other / unclassified
+10003461,2,Oedema peripheral,Other / unclassified
+10003462,2,Nasal disorder,Other / unclassified
+10003463,2,Drug ineffective,Treatment effectiveness
+10003463,2,Condition aggravated,Other / unclassified
+10003463,2,Dyspnoea,General symptoms
+10003464,2,Swelling,Other / unclassified
+10003465,2,Myalgia,Other / unclassified
+10003465,2,Back disorder,Other / unclassified
+10003465,2,Syncope,Other / unclassified
+10003465,2,Intervertebral disc protrusion,Other / unclassified
+10003465,2,Malaise,General symptoms
+10003465,2,Dyspnoea,General symptoms
+10003466,2,Dyspnoea,General symptoms
+10003466,2,Feeling abnormal,General symptoms
+10003466,2,Fatigue,General symptoms
+10003466,2,Asthenia,General symptoms
+10003467,2,Arthralgia,Other / unclassified
+10003467,2,Dyspnoea,General symptoms
+10003467,2,Cough,General symptoms
+10003468,1,Renal failure acute,Other / unclassified
+10003469,2,Cough,General symptoms
+10003470,2,Drug ineffective,Treatment effectiveness
+10003470,2,Pulmonary arterial hypertension,Other / unclassified
+10003471,2,Dyspnoea exertional,Other / unclassified
+10003472,2,Sinus disorder,Other / unclassified
+10003472,2,Cough,General symptoms
+10003472,2,Dyspnoea,General symptoms
+10003472,2,Oedema,Other / unclassified
+10003473,2,Palpitations,Other / unclassified
+10003474,2,Dyspnoea,General symptoms
+10003475,2,Arthralgia,Other / unclassified
+10003475,2,Headache,General symptoms
+10003475,2,Pain in jaw,Other / unclassified
+10003476,2,Productive cough,Other / unclassified
+10003476,2,Dyspnoea,General symptoms
+10003476,2,Pain in jaw,Other / unclassified
+10003476,2,Cough,General symptoms
+10003477,2,Polyuria,Other / unclassified
+10003477,2,Fatigue,General symptoms
+10003477,2,Weight increased,Other / unclassified
+10003478,2,Pain,General symptoms
+10003478,2,Depression,Other / unclassified
+10003478,2,Asthenia,General symptoms
+10003479,2,Vein disorder,Other / unclassified
+10003479,2,Peripheral vascular disorder,Other / unclassified
+10003480,2,Arthralgia,Other / unclassified
+10003481,2,Hypotension,Other / unclassified
+10003481,2,Fluid retention,Other / unclassified
+10003482,2,Dyspnoea,General symptoms
+10003483,2,Epistaxis,Other / unclassified
+10003483,2,Unevaluable event,Other / unclassified
+10003484,2,Blood glucose increased,Other / unclassified
+10003485,2,Fatigue,General symptoms
+10003486,2,Fatigue,General symptoms
+10003486,2,Headache,General symptoms
+10003486,2,Nasal congestion,Other / unclassified
+10003486,2,Dyspnoea,General symptoms
+10003486,2,Peripheral swelling,Other / unclassified
+10003487,1,Disorientation,Other / unclassified
+10003487,1,Drug prescribing error,Other / unclassified
+10003487,1,Incorrect dose administered,Other / unclassified
+10003487,1,Medication error,Other / unclassified
+10003488,2,Nasopharyngitis,Other / unclassified
+10003488,2,Sinus congestion,Other / unclassified
+10003488,2,Cough,General symptoms
+10003489,2,Dyspepsia,Other / unclassified
+10003490,1,Foetal death,Other / unclassified
+10003490,1,Amniotic cavity infection,Other / unclassified
+10003490,1,Maternal exposure during pregnancy,Other / unclassified
+10003491,1,Pharyngeal oedema,Other / unclassified
+10003492,2,Hypersensitivity,Other / unclassified
+10003492,2,Rash,Other / unclassified
+10003492,2,Pain,General symptoms
+10003492,2,Pruritus,Other / unclassified
+10003493,2,Drug ineffective for unapproved indication,Other / unclassified
+10003493,2,Pain in extremity,Other / unclassified
+10003494,2,Drug hypersensitivity,Hypersensitivity / allergic reactions
+10003495,2,Drug ineffective,Treatment effectiveness
+10003495,2,Swelling,Other / unclassified
+10003495,2,Joint swelling,Other / unclassified
+10003496,2,Sleep disorder,Other / unclassified
+10003496,2,Somnolence,General symptoms
+10003497,2,Headache,General symptoms
+10003497,2,Drug ineffective,Treatment effectiveness
+10003498,2,Erection increased,Other / unclassified
+10003498,2,Painful erection,Other / unclassified
+10003499,2,Insomnia,General symptoms
+10003500,2,Drug hypersensitivity,Hypersensitivity / allergic reactions
+10003501,1,Off label use,Other / unclassified
+10003501,1,Eye haemorrhage,Other / unclassified
+10003501,1,Blood creatinine increased,Other / unclassified
+10003501,1,Visual acuity reduced,Other / unclassified
+10003501,1,Ophthalmological examination abnormal,Other / unclassified
+10003501,1,Alanine aminotransferase increased,Other / unclassified
+10003501,1,Aspartate aminotransferase increased,Other / unclassified
+10003501,1,Feeling abnormal,General symptoms
+10003501,1,Somnolence,General symptoms
+10003501,1,Drug intolerance,Other / unclassified
+10003502,2,Weight increased,Other / unclassified
+10003503,2,Reaction to drug excipients,Other / unclassified
+10003504,2,Decreased appetite,Other / unclassified
+10003504,2,Fatigue,General symptoms
+10003504,2,Abdominal pain,Other / unclassified
+10003505,1,Spinal column stenosis,Other / unclassified
+10003505,1,Diabetes mellitus,Other / unclassified
+10003506,2,Respiratory disorder,Other / unclassified
+10003506,2,Dyspnoea,General symptoms
+10003506,2,Cough,General symptoms
+10003507,1,Blindness,Other / unclassified
+10003508,2,Abdominal pain,Other / unclassified
+10003508,2,Headache,General symptoms
+10003509,1,Acute graft versus host disease,Other / unclassified
+10003509,1,Chronic graft versus host disease,Other / unclassified
+10003509,1,Lung disorder,Other / unclassified
+10003509,1,Death,Patient outcomes
+10003509,1,Infection,Other / unclassified
+10003509,1,Mucosal inflammation,Other / unclassified
+10003509,1,Gastrointestinal toxicity,Other / unclassified
+10003509,1,Cardiotoxicity,Other / unclassified
+10003509,1,Neurotoxicity,Other / unclassified
+10003509,1,Hepatotoxicity,Other / unclassified
+10003509,1,Nephropathy toxic,Other / unclassified
+10003509,1,Transplant failure,Other / unclassified
+10003509,1,Venoocclusive disease,Other / unclassified
+10003509,1,Malignant neoplasm progression,Other / unclassified
+10003509,1,Off label use,Other / unclassified
+10003510,1,Infection,Other / unclassified
+10003510,1,Central venous catheterisation,Other / unclassified
+10003511,2,Peripheral swelling,Other / unclassified
+10003512,1,Femur fracture,Other / unclassified
+10003512,1,Fall,Injury / physical events
+10003513,1,Neutropenia,Other / unclassified
+10003514,1,Pain in extremity,Other / unclassified
+10003514,1,Hereditary angioedema,Other / unclassified
+10003514,1,Anxiety,General symptoms
+10003514,1,Panic attack,Other / unclassified
+10003514,1,Depression,Other / unclassified
+10003515,2,Vaginal haemorrhage,Other / unclassified
+10003515,2,Amenorrhoea,Other / unclassified
+10003515,2,Abdominal pain lower,Other / unclassified
+10003516,1,Cardiac failure congestive,Other / unclassified
+10003517,2,Hiccups,Other / unclassified
+10003518,1,Haemoglobin decreased,Clinical conditions / laboratory findings
+10003519,1,Hepatocellular injury,Other / unclassified
+10003520,1,Adnexa uteri pain,Other / unclassified
+10003520,1,Drug ineffective,Treatment effectiveness
+10003520,1,Pregnancy with contraceptive device,Other / unclassified
+10003520,1,Embedded device,Other / unclassified
+10003520,1,Ovarian cyst,Other / unclassified
+10003520,1,Injury,Injury / physical events
+10003520,1,Dyspareunia,Other / unclassified
+10003520,1,Pain,General symptoms
+10003521,2,Skin lesion,Other / unclassified
+10003521,2,Migraine,Other / unclassified
+10003522,2,Endodontic procedure,Other / unclassified
+10003523,2,Asthenia,General symptoms
+10003524,2,Dyspnoea,General symptoms
+10003525,1,Uterine perforation,Other / unclassified
+10003525,1,Post procedural discomfort,Other / unclassified
+10003525,1,Pain,General symptoms
+10003525,1,Device dislocation,Other / unclassified
+10003525,1,Pregnancy with contraceptive device,Other / unclassified
+10003525,1,Drug ineffective,Treatment effectiveness
+10003525,1,Device difficult to use,Other / unclassified
+10003525,1,Uterine haemorrhage,Other / unclassified
+10003525,1,Injury,Injury / physical events
+10003525,1,Depression,Other / unclassified
+10003525,1,Anxiety,General symptoms
+10003525,1,Stress,Other / unclassified
+10003525,1,Device issue,Other / unclassified
+10003526,2,Dry mouth,Other / unclassified
+10003526,2,Dry eye,Other / unclassified
+10003526,2,Lip dry,Other / unclassified
+10003526,2,Dry throat,Other / unclassified
+10003526,2,Insomnia,General symptoms
+10003526,2,Depressed mood,Other / unclassified
+10003526,2,Odynophagia,Other / unclassified
+10003526,2,Crying,Other / unclassified
+10003526,2,Feeling abnormal,General symptoms
+10003526,2,Oesophageal pain,Other / unclassified
+10003526,2,Oropharyngeal pain,Other / unclassified
+10003526,2,Nausea,General symptoms
+10003526,2,Abdominal distension,Other / unclassified
+10003526,2,Contusion,Other / unclassified
+10003526,2,Blood count abnormal,Other / unclassified
+10003527,2,Hepatic enzyme increased,Clinical conditions / laboratory findings
+10003528,2,Headache,General symptoms
+10003529,2,Oedema peripheral,Other / unclassified
+10003530,1,Oedema peripheral,Other / unclassified
+10003530,1,Gait disturbance,Other / unclassified
+10003531,1,Plasma cell myeloma,Other / unclassified
+10003531,1,Respiratory disorder,Other / unclassified
+10003531,1,Arrhythmia,Other / unclassified
+10003532,1,Chest pain,Other / unclassified
+10003532,1,Oedema peripheral,Other / unclassified
+10003532,1,Gastrooesophageal reflux disease,Other / unclassified
+10003534,2,Throat irritation,Other / unclassified
+10003534,2,Dysphonia,Other / unclassified
+10003535,2,Gout,Other / unclassified
+10003536,2,Feeling abnormal,General symptoms
+10003536,2,Suicidal ideation,Other / unclassified
+10003536,2,Fatigue,General symptoms
+10003536,2,Feeling cold,Other / unclassified
+10003536,2,Chills,Other / unclassified
+10003536,2,Decreased appetite,Other / unclassified
+10003537,2,Pollakiuria,Other / unclassified
+10003538,2,Palpitations,Other / unclassified
+10003538,2,Fatigue,General symptoms
+10003539,1,Pulmonary embolism,Other / unclassified
+10003539,1,Anaemia,Clinical conditions / laboratory findings
+10003539,1,Haemoglobin decreased,Clinical conditions / laboratory findings
+10003540,1,Oesophageal perforation,Other / unclassified
+10003540,1,Gastric haemorrhage,Other / unclassified
+10003540,1,Hepatic failure,Other / unclassified
+10003541,2,Generalised oedema,Other / unclassified
+10003541,2,Diarrhoea,General symptoms
+10003542,1,Nerve compression,Other / unclassified
+10003542,1,Mobility decreased,Other / unclassified
+10003542,1,Abasia,Other / unclassified
+10003543,2,Somnolence,General symptoms
+10003544,2,Balance disorder,Other / unclassified
+10003544,2,Drug level increased,Other / unclassified
+10003545,1,Death,Patient outcomes
+10003546,2,White blood cell count increased,Other / unclassified
+10003546,2,Gout,Other / unclassified
+10003546,2,Fatigue,General symptoms
+10003546,2,Red blood cell count decreased,Other / unclassified
+10003546,2,Muscle spasms,Other / unclassified
+10003546,2,Pruritus,Other / unclassified
+10003546,2,White blood cell count decreased,Other / unclassified
+10003546,2,Haemoglobin decreased,Clinical conditions / laboratory findings
+10003546,2,Peripheral swelling,Other / unclassified
+10003546,2,Anaemia,Clinical conditions / laboratory findings
+10003546,2,Blood triglycerides decreased,Other / unclassified
+10003546,2,Oedema peripheral,Other / unclassified
+10003546,2,Blood cholesterol decreased,Other / unclassified
+10003546,2,Blood count abnormal,Other / unclassified
+10003547,2,Insomnia,General symptoms
+10003548,2,Urticaria,Other / unclassified
+10003548,2,Somnolence,General symptoms
+10003549,1,Nasopharyngitis,Other / unclassified
+10003549,1,Malaise,General symptoms
+10003549,1,Pyrexia,General symptoms
+10003549,1,Nasal congestion,Other / unclassified
+10003549,1,Headache,General symptoms
+10003549,1,Diarrhoea,General symptoms
+10003549,1,Nausea,General symptoms
+10003550,2,Fatigue,General symptoms
+10003550,2,Dyspnoea,General symptoms
+10003550,2,White blood cell count abnormal,Other / unclassified
+10003550,2,Drug ineffective,Treatment effectiveness
+10003551,1,Breast cancer,Other / unclassified
+10003551,1,Erythema,Other / unclassified
+10003552,2,Fear,Other / unclassified
+10003552,2,Drug ineffective,Treatment effectiveness
+10003553,2,Fluid retention,Other / unclassified
+10003554,1,Monocyte count decreased,Other / unclassified
+10003554,1,Gamma-glutamyltransferase increased,Other / unclassified
+10003554,1,B-lymphocyte count decreased,Other / unclassified
+10003554,1,Skin lesion,Other / unclassified
+10003554,1,Mean platelet volume decreased,Other / unclassified
+10003554,1,Kaposi^s sarcoma,Other / unclassified
+10003554,1,White blood cell count decreased,Other / unclassified
+10003554,1,Lymphocyte count decreased,Other / unclassified
+10003554,1,Neutrophil count decreased,Other / unclassified
+10003554,1,T-lymphocyte count decreased,Other / unclassified
+10003555,1,Linear IgA disease,Other / unclassified
+10003556,1,Rheumatoid arthritis,Other / unclassified
+10003556,1,Arthralgia,Other / unclassified
+10003556,1,Rheumatoid factor increased,Other / unclassified
+10003556,1,Neck pain,Other / unclassified
+10003556,1,Back pain,Other / unclassified
+10003556,1,Musculoskeletal pain,Other / unclassified
+10003557,2,Oedema peripheral,Other / unclassified
+10003557,2,Weight increased,Other / unclassified
+10003558,2,Foetal exposure during pregnancy,Other / unclassified
+10003558,2,Cardiac murmur,Other / unclassified
+10003558,2,Postmature baby,Other / unclassified
+10003559,2,Pain in extremity,Other / unclassified
+10003559,2,Diarrhoea,General symptoms
+10003560,2,Staphylococcal infection,Other / unclassified
+10003561,2,Overdose,Medication use / administration
+10003562,2,Bipolar disorder,Other / unclassified
+10003563,1,Asthenia,General symptoms
+10003563,1,Palpitations,Other / unclassified
+10003563,1,Thirst,Other / unclassified
+10003563,1,Gait disturbance,Other / unclassified
+10003563,1,Death,Patient outcomes
+10003563,1,Influenza,Other / unclassified
+10003563,1,Weight decreased,Other / unclassified
+10003563,1,Nasopharyngitis,Other / unclassified
+10003563,1,Fall,Injury / physical events
+10003563,1,Confusional state,Other / unclassified
+10003564,2,Headache,General symptoms
+10003564,2,Abdominal pain,Other / unclassified
+10003564,2,Insomnia,General symptoms
+10003565,2,Fatigue,General symptoms
+10003565,2,Insomnia,General symptoms
+10003566,1,Subcutaneous haematoma,Other / unclassified
+10003566,1,Hypotension,Other / unclassified
+10003566,1,Anaemia,Clinical conditions / laboratory findings
+10003566,1,Renal failure chronic,Other / unclassified
+10003567,2,Platelet count increased,Other / unclassified
+10003568,2,Overdose,Medication use / administration
+10003569,2,Dysgeusia,Other / unclassified
+10003569,2,Dry mouth,Other / unclassified
+10003569,2,Lip dry,Other / unclassified
+10003570,1,Death,Patient outcomes
+10003572,2,Oedema peripheral,Other / unclassified
+10003573,2,Ear haemorrhage,Other / unclassified
+10003573,2,Ear infection,Other / unclassified
+10003574,1,Sepsis,Other / unclassified
+10003575,2,Drug ineffective,Treatment effectiveness
+10003576,2,Tremor,General symptoms
+10003576,2,Tremor,General symptoms
+10003576,2,Atrial fibrillation,Other / unclassified
+10003576,2,Tremor,General symptoms
+10003576,2,Tremor,General symptoms
+10003577,1,Tonsillectomy,Other / unclassified
+10003578,1,Completed suicide,Other / unclassified
+10003578,1,Suicidal behaviour,Other / unclassified
+10003579,2,Loss of consciousness,Other / unclassified
+10003580,2,Sneezing,Other / unclassified
+10003580,2,Nasal congestion,Other / unclassified
+10003581,1,Blood count abnormal,Other / unclassified
+10003581,1,Haemoglobin decreased,Clinical conditions / laboratory findings
+10003582,2,Hypertension,Other / unclassified
+10003582,2,Dehydration,Other / unclassified
+10003582,2,Night sweats,Other / unclassified
+10003582,2,Panic attack,Other / unclassified
+10003582,2,Hyperlipidaemia,Other / unclassified
+10003582,2,Insomnia,General symptoms
+10003582,2,Cold sweat,Other / unclassified
+10003582,2,Bipolar disorder,Other / unclassified
+10003582,2,Hyperhidrosis,Other / unclassified
+10003582,2,Dysgeusia,Other / unclassified
+10003582,2,Nausea,General symptoms
+10003583,2,Balance disorder,Other / unclassified
+10003583,2,Drug level increased,Other / unclassified
+10003584,2,Bone density decreased,Other / unclassified
+10003585,2,Overdose,Medication use / administration
+10003586,1,Surgery,Other / unclassified
+10003587,2,Platelet count decreased,Other / unclassified
+10003588,2,Deep vein thrombosis,Other / unclassified
+10003588,2,Splenomegaly,Other / unclassified
+10003589,1,Loss of consciousness,Other / unclassified
+10003589,1,Fall,Injury / physical events
+10003589,1,Gait disturbance,Other / unclassified
+10003589,1,Convulsion,Other / unclassified
+10003589,1,Influenza,Other / unclassified
+10003589,1,Speech disorder,Other / unclassified
+10003589,1,Malaise,General symptoms
+10003590,2,Overdose,Medication use / administration
+10003591,1,Atrioventricular block first degree,Other / unclassified
+10003591,1,Angina pectoris,Other / unclassified
+10003592,2,Adverse event,Other / unclassified
+10003593,2,Drug ineffective,Treatment effectiveness
+10003594,1,Muscle spasms,Other / unclassified
+10003594,1,Condition aggravated,Other / unclassified
+10003594,1,Pain,General symptoms
+10003594,1,Hypoaesthesia,Other / unclassified
+10003594,1,Abdominal distension,Other / unclassified
+10003594,1,Insomnia,General symptoms
+10003594,1,Fatigue,General symptoms
+10003594,1,Nausea,General symptoms
+10003594,1,Alopecia,Other / unclassified
+10003595,1,Transfusion,Other / unclassified
+10003596,2,Musculoskeletal chest pain,Other / unclassified
+10003596,2,Cough,General symptoms
+10003596,2,Fall,Injury / physical events
+10003596,2,Drug administration error,Medication use / administration
+10003597,2,Heart rate increased,Other / unclassified
+10003597,2,Ocular hyperaemia,Other / unclassified
+10003597,2,Flushing,Other / unclassified
+10003598,1,Convulsion,Other / unclassified
+10003599,1,Death,Patient outcomes
+10003600,2,Increased appetite,Other / unclassified
+10003600,2,Inappropriate schedule of drug administration,Other / unclassified
+10003600,2,Alopecia,Other / unclassified
+10003600,2,Abdominal distension,Other / unclassified
+10003600,2,Headache,General symptoms
+10003600,2,Weight increased,Other / unclassified
+10003601,2,Incorrect route of drug administration,Other / unclassified
+10003601,2,Off label use,Other / unclassified
+10003602,2,Overdose,Medication use / administration
+10003603,2,Hypersensitivity,Other / unclassified
+10003603,2,Hallucination,Other / unclassified
+10003603,2,Tardive dyskinesia,Other / unclassified
+10003604,2,Pruritus,Other / unclassified
+10003605,1,Mental disorder,Other / unclassified
+10003605,1,Panic attack,Other / unclassified
+10003605,1,Depression,Other / unclassified
+10003605,1,Anxiety,General symptoms
+10003605,1,Condition aggravated,Other / unclassified
+10003605,1,Off label use,Other / unclassified
+10003606,2,Pruritus,Other / unclassified
+10003606,2,Erythema,Other / unclassified
+10003607,2,Overdose,Medication use / administration
+10003608,2,Adverse drug reaction,Other / unclassified
+10003608,2,Thrombocytopenia,Other / unclassified
+10003609,1,Acute respiratory distress syndrome,Other / unclassified
+10003609,1,Multi-organ failure,Other / unclassified
+10003609,1,General physical health deterioration,Other / unclassified
+10003610,2,Feeling abnormal,General symptoms
+10003611,2,Blister,Other / unclassified
+10003611,2,Diarrhoea,General symptoms
+10003611,2,Nausea,General symptoms
+10003611,2,Fatigue,General symptoms
+10003611,2,Pain,General symptoms
+10003611,2,Catheter site inflammation,Other / unclassified
+10003611,2,Erythema,Other / unclassified
+10003611,2,Malaise,General symptoms
+10003611,2,Dizziness,General symptoms
+10003612,1,Death,Patient outcomes
+10003612,1,Pleural effusion,Other / unclassified
+10003612,1,Blister,Other / unclassified
+10003612,1,Hypothyroidism,Other / unclassified
+10003612,1,Blood potassium decreased,Other / unclassified
+10003612,1,Anaemia,Clinical conditions / laboratory findings
+10003612,1,Nausea,General symptoms
+10003612,1,Vomiting,General symptoms
+10003612,1,Constipation,Other / unclassified
+10003612,1,Blood pressure increased,Other / unclassified
+10003612,1,Fluid retention,Other / unclassified
+10003612,1,Pollakiuria,Other / unclassified
+10003612,1,Local swelling,Other / unclassified
+10003612,1,Joint swelling,Other / unclassified
+10003612,1,Swelling,Other / unclassified
+10003613,1,Grand mal convulsion,Other / unclassified
+10003613,1,Malaise,General symptoms
+10003613,1,Abdominal pain upper,Other / unclassified
+10003614,2,Overdose,Medication use / administration
+10003615,2,Overdose,Medication use / administration
+10003616,1,Hyperthyroidism,Other / unclassified
+10003616,1,Diabetes mellitus,Other / unclassified
+10003617,1,Haemoglobin decreased,Clinical conditions / laboratory findings
+10003617,1,Pyrexia,General symptoms
+10003617,1,Headache,General symptoms
+10003618,2,Device difficult to use,Other / unclassified
+10003618,2,No adverse event,Other / unclassified
+10003618,2,Product quality issue,Other / unclassified
+10003619,2,Alopecia,Other / unclassified
+10003620,1,Malnutrition,Other / unclassified
+10003620,1,Multiple sclerosis,Other / unclassified
+10003620,1,Loss of consciousness,Other / unclassified
+10003620,1,Weight decreased,Other / unclassified
+10003621,1,Fibroadenoma of breast,Other / unclassified
+10003621,1,Off label use,Other / unclassified
+10003622,1,Hyperthermia malignant,Other / unclassified
+10003623,2,Liver function test abnormal,Other / unclassified
+10003624,2,Overdose,Medication use / administration
+10003625,1,Neoplasm malignant,Other / unclassified
+10003626,1,Diabetes mellitus,Other / unclassified
+10003626,1,Endocarditis staphylococcal,Other / unclassified
+10003627,1,Nephrogenic systemic fibrosis,Other / unclassified
+10003628,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003629,2,Overdose,Medication use / administration
+10003630,2,Haemorrhage,Other / unclassified
+10003630,2,Skin atrophy,Other / unclassified
+10003631,2,Drug hypersensitivity,Hypersensitivity / allergic reactions
+10003631,2,Alopecia,Other / unclassified
+10003632,1,Influenza,Other / unclassified
+10003632,1,Pneumonia,Clinical conditions / laboratory findings
+10003633,1,Nephrogenic systemic fibrosis,Other / unclassified
+10003634,2,Staphylococcal infection,Other / unclassified
+10003634,2,Oral herpes,Other / unclassified
+10003635,1,Neutrophil count increased,Other / unclassified
+10003635,1,White blood cell count increased,Other / unclassified
+10003635,1,Abnormal behaviour,Other / unclassified
+10003636,1,Dehydration,Other / unclassified
+10003637,1,Hospitalisation,Other / unclassified
+10003637,1,Convulsion,Other / unclassified
+10003637,1,Convulsion,Other / unclassified
+10003638,2,Fatigue,General symptoms
+10003638,2,Malaise,General symptoms
+10003639,1,Lower limb fracture,Other / unclassified
+10003639,1,Syncope,Other / unclassified
+10003640,2,Diarrhoea,General symptoms
+10003640,2,Abdominal pain upper,Other / unclassified
+10003641,2,Medication residue present,Other / unclassified
+10003642,1,Osteomyelitis,Other / unclassified
+10003643,2,Hypotension,Other / unclassified
+10003643,2,Fatigue,General symptoms
+10003643,2,Chest discomfort,Other / unclassified
+10003643,2,Oxygen saturation decreased,Other / unclassified
+10003643,2,Dizziness,General symptoms
+10003644,1,Death,Patient outcomes
+10003645,1,Death,Patient outcomes
+10003646,2,Incorrect dose administered,Other / unclassified
+10003647,1,Erysipelas,Other / unclassified
+10003647,1,Sepsis,Other / unclassified
+10003648,2,Fluid retention,Other / unclassified
+10003649,1,Atrial septal defect,Other / unclassified
+10003649,1,Bundle branch block right,Other / unclassified
+10003649,1,Tachycardia,Other / unclassified
+10003650,2,Pancreatic disorder,Other / unclassified
+10003651,1,Rectal haemorrhage,Other / unclassified
+10003651,1,Rectal haemorrhage,Other / unclassified
+10003651,1,Asthenia,General symptoms
+10003651,1,Weight decreased,Other / unclassified
+10003652,2,Weight increased,Other / unclassified
+10003652,2,Oedema peripheral,Other / unclassified
+10003652,2,Fluid retention,Other / unclassified
+10003653,1,Death,Patient outcomes
+10003654,2,Hair growth abnormal,Other / unclassified
+10003654,2,Skin disorder,Other / unclassified
+10003654,2,Alopecia,Other / unclassified
+10003655,1,Organising pneumonia,Other / unclassified
+10003655,1,Fall,Injury / physical events
+10003655,1,Lung infection,Other / unclassified
+10003655,1,Urinary tract infection bacterial,Other / unclassified
+10003655,1,Lower respiratory tract infection bacterial,Other / unclassified
+10003655,1,Acute respiratory distress syndrome,Other / unclassified
+10003655,1,Loss of consciousness,Other / unclassified
+10003655,1,Psoriasis,Other / unclassified
+10003655,1,Blood cholesterol increased,Other / unclassified
+10003655,1,Amnesia,Other / unclassified
+10003655,1,Dyspnoea,General symptoms
+10003655,1,Headache,General symptoms
+10003655,1,Exposure to contaminated water,Other / unclassified
+10003656,2,Somnolence,General symptoms
+10003656,2,Drug dose omission,Other / unclassified
+10003657,1,Vomiting,General symptoms
+10003657,1,Nausea,General symptoms
+10003657,1,Fatigue,General symptoms
+10003657,1,Lethargy,Other / unclassified
+10003657,1,Abdominal pain upper,Other / unclassified
+10003658,1,Death,Patient outcomes
+10003659,2,Sleep disorder,Other / unclassified
+10003659,2,Sinus disorder,Other / unclassified
+10003660,2,Chest pain,Other / unclassified
+10003660,2,Tremor,General symptoms
+10003660,2,Headache,General symptoms
+10003661,1,Depression,Other / unclassified
+10003661,1,Wheelchair user,Other / unclassified
+10003661,1,Drug effect decreased,Other / unclassified
+10003662,2,Platelet count increased,Other / unclassified
+10003662,2,White blood cell count increased,Other / unclassified
+10003662,2,Drug ineffective,Treatment effectiveness
+10003663,2,Rash,Other / unclassified
+10003664,2,Disease progression,Other / unclassified
+10003664,2,Depression,Other / unclassified
+10003664,2,Confusional state,Other / unclassified
+10003664,2,Musculoskeletal stiffness,Other / unclassified
+10003664,2,Tremor,General symptoms
+10003664,2,Dyskinesia,Other / unclassified
+10003664,2,Movement disorder,Other / unclassified
+10003665,2,Malaise,General symptoms
+10003665,2,Ear pruritus,Other / unclassified
+10003665,2,Abnormal sensation in eye,Other / unclassified
+10003665,2,Ear swelling,Other / unclassified
+10003665,2,Pruritus,Other / unclassified
+10003665,2,Tinnitus,Other / unclassified
+10003665,2,Swelling,Other / unclassified
+10003666,2,Reflux laryngitis,Other / unclassified
+10003667,1,Death,Patient outcomes
+10003668,2,Dizziness,General symptoms
+10003668,2,Lethargy,Other / unclassified
+10003668,2,Gait disturbance,Other / unclassified
+10003669,1,Coeliac disease,Other / unclassified
+10003670,1,Blindness,Other / unclassified
+10003671,2,Dyspnoea,General symptoms
+10003671,2,Oedema peripheral,Other / unclassified
+10003672,1,Hypertension,Other / unclassified
+10003672,1,Blood pressure increased,Other / unclassified
+10003672,1,Hyperhidrosis,Other / unclassified
+10003672,1,Hyperhidrosis,Other / unclassified
+10003673,1,Multiple sclerosis,Other / unclassified
+10003674,2,Hypersensitivity,Other / unclassified
+10003674,2,Alopecia,Other / unclassified
+10003675,2,Implant site pruritus,Other / unclassified
+10003675,2,Implant site erythema,Other / unclassified
+10003676,2,Wrist fracture,Other / unclassified
+10003676,2,Arthritis,Other / unclassified
+10003677,2,Abdominal discomfort,Other / unclassified
+10003678,1,Neoplasm malignant,Other / unclassified
+10003678,1,Metastasis,Other / unclassified
+10003679,1,Fall,Injury / physical events
+10003679,1,Head injury,Other / unclassified
+10003679,1,Arthralgia,Other / unclassified
+10003679,1,Urinary tract infection,Other / unclassified
+10003680,2,Dyspnoea exertional,Other / unclassified
+10003681,2,Tremor,General symptoms
+10003682,1,Asthenia,General symptoms
+10003682,1,Ear infection,Other / unclassified
+10003682,1,Increased viscosity of bronchial secretion,Other / unclassified
+10003682,1,Sinus disorder,Other / unclassified
+10003683,1,Chronic obstructive pulmonary disease,Other / unclassified
+10003683,1,Endotracheal intubation,Other / unclassified
+10003683,1,Acute respiratory failure,Other / unclassified
+10003683,1,Hyperglycaemia,Other / unclassified
+10003683,1,Bronchitis pneumococcal,Other / unclassified
+10003683,1,Bronchitis,Other / unclassified
+10003684,2,Fatigue,General symptoms
+10003685,2,Drug level below therapeutic,Other / unclassified
+10003685,2,Drug level below therapeutic,Other / unclassified
+10003686,1,Nephrogenic systemic fibrosis,Other / unclassified
+10003687,2,Somnolence,General symptoms
+10003687,2,Trismus,Other / unclassified
+10003687,2,Fatigue,General symptoms
+10003688,2,Feeling abnormal,General symptoms
+10003688,2,Insomnia,General symptoms
+10003688,2,Unevaluable event,Other / unclassified
+10003688,2,Somnolence,General symptoms
+10003688,2,Dizziness,General symptoms
+10003689,2,Tooth loss,Other / unclassified
+10003689,2,Pain,General symptoms
+10003690,1,Rhinalgia,Other / unclassified
+10003690,1,Facial pain,Other / unclassified
+10003690,1,Mobility decreased,Other / unclassified
+10003690,1,Seizure,Other / unclassified
+10003691,2,Weight increased,Other / unclassified
+10003692,2,Implant site irritation,Other / unclassified
+10003692,2,Implant site bruising,Other / unclassified
+10003693,2,Oedema peripheral,Other / unclassified
+10003693,2,Oedema,Other / unclassified
+10003693,2,Dyspnoea,General symptoms
+10003694,1,Blood sodium decreased,Other / unclassified
+10003694,1,Cholelithiasis,Other / unclassified
+10003694,1,Hepatic mass,Other / unclassified
+10003694,1,Hyperglycaemia,Other / unclassified
+10003694,1,Dyspnoea,General symptoms
+10003694,1,Inappropriate antidiuretic hormone secretion,Other / unclassified
+10003695,2,Nausea,General symptoms
+10003696,2,Peripheral swelling,Other / unclassified
+10003697,1,Hyperthermia malignant,Other / unclassified
+10003698,1,Fallot^s tetralogy,Other / unclassified
+10003698,1,Cleft palate,Other / unclassified
+10003698,1,Autism,Other / unclassified
+10003698,1,Foetal exposure during pregnancy,Other / unclassified
+10003699,2,Liver function test abnormal,Other / unclassified
+10003700,2,Neuropathy peripheral,Other / unclassified
+10003701,1,Chronic obstructive pulmonary disease,Other / unclassified
+10003701,1,Emphysema,Other / unclassified
+10003701,1,Bronchitis,Other / unclassified
+10003701,1,Dyspnoea,General symptoms
+10003701,1,Stress,Other / unclassified
+10003701,1,Anxiety,General symptoms
+10003702,2,Somnolence,General symptoms
+10003702,2,Tremor,General symptoms
+10003703,1,Unevaluable event,Other / unclassified
+10003704,2,Hair texture abnormal,Other / unclassified
+10003705,2,Blood potassium increased,Other / unclassified
+10003706,1,Lung infection,Other / unclassified
+10003707,1,Suicide attempt,Other / unclassified
+10003707,1,Antipsychotic drug level below therapeutic,Other / unclassified
+10003707,1,Mental disorder,Other / unclassified
+10003707,1,Antipsychotic drug level above therapeutic,Other / unclassified
+10003707,1,Adverse reaction,Other / unclassified
+10003707,1,Suicidal ideation,Other / unclassified
+10003707,1,Dizziness,General symptoms
+10003707,1,Aphasia,Other / unclassified
+10003707,1,Syncope,Other / unclassified
+10003707,1,Memory impairment,Other / unclassified
+10003707,1,Bronchitis,Other / unclassified
+10003707,1,Irritability,Other / unclassified
+10003707,1,Feeling abnormal,General symptoms
+10003707,1,Amnesia,Other / unclassified
+10003707,1,Conversion disorder,Other / unclassified
+10003707,1,Visual impairment,Other / unclassified
+10003707,1,Vision blurred,Other / unclassified
+10003707,1,Headache,General symptoms
+10003707,1,Pyrexia,General symptoms
+10003707,1,Pain,General symptoms
+10003707,1,Injection site reaction,Other / unclassified
+10003707,1,Injection site haemorrhage,Other / unclassified
+10003707,1,Fatigue,General symptoms
+10003708,1,Confusional state,Other / unclassified
+10003708,1,Hyperammonaemia,Other / unclassified
+10003709,2,Diarrhoea,General symptoms
+10003710,2,Weight increased,Other / unclassified
+10003710,2,Abdominal pain upper,Other / unclassified
+10003710,2,Dyspnoea,General symptoms
+10003710,2,Cough,General symptoms
+10003711,2,Eye movement disorder,Other / unclassified
+10003711,2,Thinking abnormal,Other / unclassified
+10003712,1,Respiratory distress,Other / unclassified
+10003712,1,Pulmonary oedema,Other / unclassified
+10003712,1,Dyspnoea,General symptoms
+10003712,1,Pulmonary alveolar haemorrhage,Other / unclassified
+10003712,1,Pulmonary veno-occlusive disease,Other / unclassified
+10003712,1,Therapeutic response decreased,Other / unclassified
+10003712,1,Drug ineffective,Treatment effectiveness
+10003713,2,Rash,Other / unclassified
+10003713,2,Dyspnoea,General symptoms
+10003714,2,Hypersensitivity,Other / unclassified
+10003715,2,Limb discomfort,Other / unclassified
+10003715,2,Crying,Other / unclassified
+10003716,2,Drug ineffective for unapproved indication,Other / unclassified
+10003717,1,Haemoglobin decreased,Clinical conditions / laboratory findings
+10003717,1,Weight increased,Other / unclassified
+10003718,1,Nephrogenic systemic fibrosis,Other / unclassified
+10003719,2,Hyperammonaemia,Other / unclassified
+10003720,2,Overdose,Medication use / administration
+10003721,2,Flat affect,Other / unclassified
+10003721,2,Thought withdrawal,Other / unclassified
+10003721,2,Mental impairment,Other / unclassified
+10003721,2,Dyspnoea,General symptoms
+10003721,2,Local swelling,Other / unclassified
+10003722,1,Pneumonia,Clinical conditions / laboratory findings
+10003723,1,Pulmonary valve stenosis congenital,Other / unclassified
+10003723,1,Congenital anomaly,Other / unclassified
+10003723,1,Foetal exposure during pregnancy,Other / unclassified
+10003724,2,Drug ineffective,Treatment effectiveness
+10003725,1,Death,Patient outcomes
+10003725,1,Dyspnoea,General symptoms
+10003725,1,Fatigue,General symptoms
+10003725,1,Dysphonia,Other / unclassified
+10003725,1,Diarrhoea,General symptoms
+10003726,1,Convulsion,Other / unclassified
+10003726,1,Dyspnoea,General symptoms
+10003726,1,Skin discolouration,Other / unclassified
+10003726,1,Lip discolouration,Other / unclassified
+10003726,1,Status epilepticus,Other / unclassified
+10003726,1,Epilepsy,Other / unclassified
+10003726,1,Fall,Injury / physical events
+10003726,1,Tooth loss,Other / unclassified
+10003726,1,Central nervous system lesion,Other / unclassified
+10003726,1,Cognitive disorder,Other / unclassified
+10003726,1,Drug withdrawal syndrome,Other / unclassified
+10003726,1,Quality of life decreased,Other / unclassified
+10003726,1,General physical health deterioration,Other / unclassified
+10003726,1,Mental impairment,Other / unclassified
+10003726,1,Disorientation,Other / unclassified
+10003726,1,Affect lability,Other / unclassified
+10003726,1,Gait disturbance,Other / unclassified
+10003726,1,Speech disorder,Other / unclassified
+10003726,1,Anticonvulsant drug level decreased,Other / unclassified
+10003726,1,Drug effect decreased,Other / unclassified
+10003727,1,Investigation,Other / unclassified
+10003728,2,Hyperammonaemia,Other / unclassified
+10003729,1,Liver disorder,Other / unclassified
+10003729,1,Transaminases increased,Other / unclassified
+10003730,1,Disease progression,Other / unclassified
+10003731,2,Erythema,Other / unclassified
+10003731,2,Pruritus,Other / unclassified
+10003731,2,Wrong technique in drug usage process,Other / unclassified
+10003731,2,Product adhesion issue,Other / unclassified
+10003732,2,Diarrhoea,General symptoms
+10003733,1,Abortion induced,Other / unclassified
+10003733,1,Unintended pregnancy,Other / unclassified
+10003733,1,Medical device complication,Other / unclassified
+10003733,1,Product quality issue,Other / unclassified
+10003733,1,Drug dose omission,Other / unclassified
+10003734,1,Disease progression,Other / unclassified
+10003735,2,Haemorrhage,Other / unclassified
+10003735,2,Otorrhoea,Other / unclassified
+10003736,1,Renal failure acute,Other / unclassified
+10003737,2,Hair disorder,Other / unclassified
+10003737,2,Osteoporosis,Other / unclassified
+10003737,2,Alopecia,Other / unclassified
+10003738,2,Exposure during pregnancy,Other / unclassified
+10003739,2,Diarrhoea,General symptoms
+10003740,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003741,2,Parkinson^s disease,Other / unclassified
+10003741,2,Neuropathy peripheral,Other / unclassified
+10003741,2,Intervertebral disc disorder,Other / unclassified
+10003741,2,Local swelling,Other / unclassified
+10003741,2,Oedema,Other / unclassified
+10003742,1,Cholelithiasis,Other / unclassified
+10003743,2,Headache,General symptoms
+10003744,2,Device expulsion,Other / unclassified
+10003744,2,Device expulsion,Other / unclassified
+10003745,2,Sedation,Other / unclassified
+10003746,2,Exposure during pregnancy,Other / unclassified
+10003747,2,Tooth disorder,Other / unclassified
+10003748,1,Bone marrow failure,Other / unclassified
+10003748,1,Bone marrow failure,Other / unclassified
+10003748,1,Neutrophil count decreased,Other / unclassified
+10003749,1,Chronic obstructive pulmonary disease,Other / unclassified
+10003750,1,Dementia Alzheimer^s type,Other / unclassified
+10003750,1,Hip fracture,Other / unclassified
+10003750,1,Cerebrovascular accident,Other / unclassified
+10003751,1,Nephrogenic systemic fibrosis,Other / unclassified
+10003752,2,Urinary tract infection,Other / unclassified
+10003753,1,Pancreatitis,Other / unclassified
+10003754,1,Hypoacusis,Other / unclassified
+10003755,1,Pneumonia,Clinical conditions / laboratory findings
+10003756,2,Activities of daily living impaired,Other / unclassified
+10003756,2,Crying,Other / unclassified
+10003756,2,Drug ineffective,Treatment effectiveness
+10003756,2,Depression,Other / unclassified
+10003757,2,Medical device complication,Other / unclassified
+10003758,2,Overdose,Medication use / administration
+10003759,2,Drug hypersensitivity,Hypersensitivity / allergic reactions
+10003760,1,Disease progression,Other / unclassified
+10003761,2,Drug ineffective,Treatment effectiveness
+10003762,1,Pancytopenia,Other / unclassified
+10003763,2,Incorrect dosage administered,Other / unclassified
+10003763,2,Product compounding quality issue,Other / unclassified
+10003763,2,No adverse event,Other / unclassified
+10003764,1,Low turnover osteopathy,Other / unclassified
+10003764,1,Femur fracture,Other / unclassified
+10003764,1,Reflux laryngitis,Other / unclassified
+10003764,1,Gingival recession,Other / unclassified
+10003764,1,Intramedullary rod insertion,Other / unclassified
+10003764,1,Rib fracture,Other / unclassified
+10003764,1,Bone graft,Other / unclassified
+10003764,1,Squamous cell carcinoma of skin,Other / unclassified
+10003764,1,Osteoporosis,Other / unclassified
+10003764,1,Periodontal operation,Other / unclassified
+10003765,1,Visual impairment,Other / unclassified
+10003766,2,Adverse event,Other / unclassified
+10003767,1,Disease progression,Other / unclassified
+10003768,1,Loss of proprioception,Other / unclassified
+10003768,1,Fall,Injury / physical events
+10003768,1,Gait disturbance,Other / unclassified
+10003768,1,Asthenia,General symptoms
+10003769,1,Embedded device,Other / unclassified
+10003770,2,Back pain,Other / unclassified
+10003770,2,Back injury,Other / unclassified
+10003770,2,Amnesia,Other / unclassified
+10003771,1,Hyponatraemia,Other / unclassified
+10003771,1,Dyspnoea,General symptoms
+10003771,1,Pyrexia,General symptoms
+10003771,1,Pancreatitis,Other / unclassified
+10003771,1,Influenza,Other / unclassified
+10003771,1,Pneumonia,Clinical conditions / laboratory findings
+10003771,1,Sepsis,Other / unclassified
+10003772,1,Disease progression,Other / unclassified
+10003773,2,Discomfort,Other / unclassified
+10003774,1,Dizziness,General symptoms
+10003775,2,Wrong technique in drug usage process,Other / unclassified
+10003775,2,Drug intolerance,Other / unclassified
+10003776,1,Disease progression,Other / unclassified
+10003777,2,Device difficult to use,Other / unclassified
+10003778,2,Off label use,Other / unclassified
+10003778,2,Drug ineffective,Treatment effectiveness
+10003779,1,Myocardial infarction,Other / unclassified
+10003780,2,Device expulsion,Other / unclassified
+10003780,2,Inappropriate schedule of drug administration,Other / unclassified
+10003780,2,No adverse event,Other / unclassified
+10003781,2,Faeces pale,Other / unclassified
+10003781,2,Headache,General symptoms
+10003781,2,Feeling jittery,Other / unclassified
+10003781,2,Heart rate increased,Other / unclassified
+10003781,2,Insomnia,General symptoms
+10003782,1,Disease progression,Other / unclassified
+10003783,1,Death,Patient outcomes
+10003784,1,Investigation,Other / unclassified
+10003785,2,Ammonia increased,Other / unclassified
+10003785,2,Unevaluable event,Other / unclassified
+10003785,2,Hypersensitivity,Other / unclassified
+10003786,1,Disease progression,Other / unclassified
+10003787,1,Disease progression,Other / unclassified
+10003788,2,Drug ineffective,Treatment effectiveness
+10003789,1,Disease progression,Other / unclassified
+10003790,1,Arthropathy,Other / unclassified
+10003790,1,Osteonecrosis,Other / unclassified
+10003791,1,Gangrene,Other / unclassified
+10003791,1,Gangrene,Other / unclassified
+10003792,1,Grand mal convulsion,Other / unclassified
+10003792,1,Vomiting,General symptoms
+10003792,1,Amnesia,Other / unclassified
+10003793,2,Drug hypersensitivity,Hypersensitivity / allergic reactions
+10003794,1,Disease progression,Other / unclassified
+10003795,2,Therapy change,Other / unclassified
+10003795,2,Therapy change,Other / unclassified
+10003796,1,Disease progression,Other / unclassified
+10003797,2,Full blood count abnormal,Other / unclassified
+10003797,2,Adverse drug reaction,Other / unclassified
+10003797,2,Increased tendency to bruise,Other / unclassified
+10003798,1,Sepsis,Other / unclassified
+10003798,1,Tooth infection,Other / unclassified
+10003799,1,Neurological decompensation,Other / unclassified
+10003799,1,Disease progression,Other / unclassified
+10003800,2,Malaise,General symptoms
+10003800,2,Drug dispensing error,Other / unclassified
+10003800,2,Rash,Other / unclassified
+10003800,2,Nausea,General symptoms
+10003800,2,Vomiting,General symptoms
+10003800,2,Off label use,Other / unclassified
+10003801,1,Thrombosis,Other / unclassified
+10003801,1,Device issue,Other / unclassified
+10003801,1,Arteriovenous fistula site complication,Other / unclassified
+10003802,1,Convulsion,Other / unclassified
+10003802,1,Pulmonary oedema,Other / unclassified
+10003803,2,Balance disorder,Other / unclassified
+10003803,2,Gait disturbance,Other / unclassified
+10003803,2,Gait disturbance,Other / unclassified
+10003804,1,Rib fracture,Other / unclassified
+10003805,2,Trigeminal neuralgia,Other / unclassified
+10003805,2,Dyskinesia,Other / unclassified
+10003805,2,Facial pain,Other / unclassified
+10003805,2,Tremor,General symptoms
+10003806,1,Gastroenteritis viral,Other / unclassified
+10003806,1,Peritonitis bacterial,Other / unclassified
+10003806,1,Diarrhoea,General symptoms
+10003807,1,Fluid overload,Other / unclassified
+10003807,1,Infected cyst,Other / unclassified
+10003807,1,Febrile neutropenia,Other / unclassified
+10003807,1,Febrile neutropenia,Other / unclassified
+10003807,1,Enterobacter pneumonia,Other / unclassified
+10003807,1,Corynebacterium infection,Other / unclassified
+10003807,1,Pharyngitis,Other / unclassified
+10003808,1,Malaise,General symptoms
+10003809,1,Hypotension,Other / unclassified
+10003809,1,Eye movement disorder,Other / unclassified
+10003809,1,Heart rate decreased,Other / unclassified
+10003809,1,Pulse abnormal,Other / unclassified
+10003809,1,Blood pressure diastolic increased,Other / unclassified
+10003810,1,Carnitine deficiency,Other / unclassified
+10003810,1,Hyperammonaemia,Other / unclassified
+10003810,1,Irritability,Other / unclassified
+10003810,1,Affective disorder,Other / unclassified
+10003810,1,Condition aggravated,Other / unclassified
+10003811,1,Staphylococcal infection,Other / unclassified
+10003811,1,Catheter site infection,Other / unclassified
+10003812,1,Muscular weakness,Other / unclassified
+10003812,1,Paraesthesia,Other / unclassified
+10003813,1,Pancreatitis,Other / unclassified
+10003813,1,Off label use,Other / unclassified
+10003814,1,Pulmonary haemorrhage,Other / unclassified
+10003814,1,Swelling,Other / unclassified
+10003814,1,Anaemia,Clinical conditions / laboratory findings
+10003814,1,Hypotension,Other / unclassified
+10003815,1,Pneumonia,Clinical conditions / laboratory findings
+10003815,1,Urinary tract infection,Other / unclassified
+10003815,1,Malaise,General symptoms
+10003815,1,Cardiac disorder,Other / unclassified
+10003815,1,Cardiovascular disorder,Other / unclassified
+10003815,1,Blood glucose increased,Other / unclassified
+10003816,1,Anaemia,Clinical conditions / laboratory findings
+10003817,1,Sepsis,Other / unclassified
+10003818,2,Anger,Other / unclassified
+10003818,2,Hallucination,Other / unclassified
+10003819,1,Mixed liver injury,Other / unclassified
+10003820,2,Urinary tract infection,Other / unclassified
+10003820,2,Hypophagia,Other / unclassified
+10003820,2,Dehydration,Other / unclassified
+10003821,2,Granulocytopenia,Other / unclassified
+10003821,2,Leukopenia,Other / unclassified
+10003822,1,Headache,General symptoms
+10003822,1,Toothache,Other / unclassified
+10003822,1,Peritonitis,Other / unclassified
+10003822,1,Peritoneal dialysis complication,Other / unclassified
+10003823,1,Hypotension,Other / unclassified
+10003823,1,Pneumonia,Clinical conditions / laboratory findings
+10003824,2,Rash,Other / unclassified
+10003825,1,Post procedural haemorrhage,Other / unclassified
+10003825,1,Acidosis,Other / unclassified
+10003826,2,Suicidal ideation,Other / unclassified
+10003826,2,Depression,Other / unclassified
+10003827,1,Haemorrhage,Other / unclassified
+10003827,1,Haematocrit decreased,Other / unclassified
+10003827,1,Rectal haemorrhage,Other / unclassified
+10003827,1,Haematochezia,Other / unclassified
+10003827,1,Mouth haemorrhage,Other / unclassified
+10003827,1,Epistaxis,Other / unclassified
+10003827,1,Pyrexia,General symptoms
+10003828,1,Stevens-Johnson syndrome,Other / unclassified
+10003829,1,Myocardial infarction,Other / unclassified
+10003830,1,Mycobacterium tuberculosis complex test positive,Other / unclassified
+10003830,1,Headache,General symptoms
+10003830,1,Chest discomfort,Other / unclassified
+10003831,1,Respiratory failure,Other / unclassified
+10003831,1,Chronic obstructive pulmonary disease,Other / unclassified
+10003832,2,Nausea,General symptoms
+10003832,2,Vomiting,General symptoms
+10003833,1,Myocardial infarction,Other / unclassified
+10003834,2,Balance disorder,Other / unclassified
+10003835,1,Cardiac flutter,Other / unclassified
+10003835,1,Therapeutic response decreased,Other / unclassified
+10003836,2,Incorrect route of drug administration,Other / unclassified
+10003837,1,Death,Patient outcomes
+10003838,2,Dreamy state,Other / unclassified
+10003838,2,Movement disorder,Other / unclassified
+10003838,2,Bruxism,Other / unclassified
+10003838,2,Speech disorder,Other / unclassified
+10003838,2,Repetitive speech,Other / unclassified
+10003838,2,Paraesthesia,Other / unclassified
+10003838,2,Crying,Other / unclassified
+10003838,2,Dizziness,General symptoms
+10003838,2,Speech disorder,Other / unclassified
+10003838,2,Dysstasia,Other / unclassified
+10003838,2,Vomiting,General symptoms
+10003838,2,Dysarthria,Other / unclassified
+10003838,2,Hyperhidrosis,Other / unclassified
+10003838,2,Nausea,General symptoms
+10003839,1,Parotitis,Other / unclassified
+10003839,1,Salivary hypersecretion,Other / unclassified
+10003839,1,Ear pain,Other / unclassified
+10003839,1,Odynophagia,Other / unclassified
+10003839,1,Parotid gland enlargement,Other / unclassified
+10003839,1,Oedema,Other / unclassified
+10003839,1,Inflammation,Other / unclassified
+10003839,1,Leukocytosis,Other / unclassified
+10003839,1,Anaemia,Clinical conditions / laboratory findings
+10003839,1,Tachycardia,Other / unclassified
+10003839,1,Schizoaffective disorder bipolar type,Other / unclassified
+10003839,1,Drug ineffective,Treatment effectiveness
+10003840,2,Fluid retention,Other / unclassified
+10003840,2,Feeling abnormal,General symptoms
+10003840,2,Abnormal dreams,Other / unclassified
+10003840,2,Nightmare,Other / unclassified
+10003840,2,Insomnia,General symptoms
+10003840,2,Testicular swelling,Other / unclassified
+10003841,1,Convulsion,Other / unclassified
+10003842,1,Bursitis,Other / unclassified
+10003842,1,Abscess bacterial,Other / unclassified
+10003842,1,Staphylococcal infection,Other / unclassified
+10003843,1,Fall,Injury / physical events
+10003843,1,Rhabdomyolysis,Other / unclassified
+10003843,1,Somnolence,General symptoms
+10003844,1,Diabetes mellitus,Other / unclassified
+10003844,1,Gait disturbance,Other / unclassified
+10003844,1,Anaemia,Clinical conditions / laboratory findings
+10003844,1,Blood triglycerides abnormal,Other / unclassified
+10003844,1,Muscular weakness,Other / unclassified
+10003844,1,Blood cholesterol abnormal,Other / unclassified
+10003844,1,Cough,General symptoms
+10003844,1,Influenza,Other / unclassified
+10003844,1,Bone disorder,Other / unclassified
+10003844,1,Patient-device incompatibility,Other / unclassified
+10003844,1,Pain,General symptoms
+10003845,1,Death,Patient outcomes
+10003846,1,Localised infection,Other / unclassified
+10003846,1,Diabetic ketoacidosis,Other / unclassified
+10003846,1,Abscess limb,Other / unclassified
+10003847,2,Platelet count abnormal,Other / unclassified
+10003847,2,Haematochezia,Other / unclassified
+10003848,2,Alopecia,Other / unclassified
+10003849,1,Transfusion,Other / unclassified
+10003849,1,Vision blurred,Other / unclassified
+10003849,1,Intraocular pressure increased,Other / unclassified
+10003850,1,Rectocele,Other / unclassified
+10003851,2,Weight decreased,Other / unclassified
+10003851,2,Weight increased,Other / unclassified
+10003851,2,Dizziness,General symptoms
+10003851,2,Anaemia,Clinical conditions / laboratory findings
+10003852,2,Product quality issue,Other / unclassified
+10003852,2,Nervousness,Other / unclassified
+10003852,2,Feeling jittery,Other / unclassified
+10003852,2,Drug ineffective,Treatment effectiveness
+10003852,2,Phobia,Other / unclassified
+10003852,2,Mania,Other / unclassified
+10003852,2,Agitation,Other / unclassified
+10003852,2,Confusional state,Other / unclassified
+10003853,1,Cardiac arrest,Other / unclassified
+10003853,1,Arrhythmia,Other / unclassified
+10003853,1,Acidosis,Other / unclassified
+10003853,1,Respiratory distress,Other / unclassified
+10003853,1,Status epilepticus,Other / unclassified
+10003854,2,Unevaluable event,Other / unclassified
+10003855,1,Death,Patient outcomes
+10003856,2,Blood pressure increased,Other / unclassified
+10003856,2,Ear congestion,Other / unclassified
+10003856,2,Arthralgia,Other / unclassified
+10003856,2,Abdominal pain,Other / unclassified
+10003856,2,Thinking abnormal,Other / unclassified
+10003856,2,Drug dispensing error,Other / unclassified
+10003856,2,Epistaxis,Other / unclassified
+10003856,2,Contusion,Other / unclassified
+10003856,2,Haemoglobin decreased,Clinical conditions / laboratory findings
+10003856,2,White blood cell count decreased,Other / unclassified
+10003857,1,Gastrointestinal stromal tumour,Other / unclassified
+10003857,1,Malignant neoplasm progression,Other / unclassified
+10003857,1,Intestinal obstruction,Other / unclassified
+10003857,1,Pyrexia,General symptoms
+10003857,1,Abdominal pain upper,Other / unclassified
+10003858,2,Hypersensitivity,Other / unclassified
+10003859,1,Blood count abnormal,Other / unclassified
+10003859,1,Platelet count decreased,Other / unclassified
+10003860,1,Injury,Injury / physical events
+10003860,1,General physical health deterioration,Other / unclassified
+10003860,1,Cerebrovascular arteriovenous malformation,Other / unclassified
+10003860,1,Gastrooesophageal reflux disease,Other / unclassified
+10003860,1,Peripheral artery thrombosis,Other / unclassified
+10003860,1,Pain,General symptoms
+10003860,1,Anxiety,General symptoms
+10003860,1,Abdominal pain,Other / unclassified
+10003860,1,Emotional distress,Other / unclassified
+10003861,2,Incorrect route of drug administration,Other / unclassified
+10003861,2,Off label use,Other / unclassified
+10003862,2,Drug hypersensitivity,Hypersensitivity / allergic reactions
+10003862,2,Hepatic enzyme increased,Clinical conditions / laboratory findings
+10003863,2,Rash,Other / unclassified
+10003863,2,Hypersensitivity,Other / unclassified
+10003864,1,Platelet count decreased,Other / unclassified
+10003864,1,Blood count abnormal,Other / unclassified
+10003865,1,Cerebral venous thrombosis,Other / unclassified
+10003865,1,Jugular vein thrombosis,Other / unclassified
+10003866,1,Subdural haematoma,Other / unclassified
+10003867,1,Musculoskeletal stiffness,Other / unclassified
+10003867,1,Myalgia,Other / unclassified
+10003868,2,Dizziness,General symptoms
+10003869,1,Platelet count decreased,Other / unclassified
+10003869,1,Stem cell transplant,Other / unclassified
+10003869,1,Splenomegaly,Other / unclassified
+10003869,1,Contusion,Other / unclassified
+10003870,1,Thrombosis,Other / unclassified
+10003870,1,Injury,Injury / physical events
+10003870,1,Emotional distress,Other / unclassified
+10003870,1,Deep vein thrombosis,Other / unclassified
+10003870,1,Anxiety,General symptoms
+10003870,1,Pain,General symptoms
+10003870,1,Abdominal pain,Other / unclassified
+10003870,1,General physical health deterioration,Other / unclassified
+10003871,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003872,2,Malaise,General symptoms
+10003873,2,Drug administration error,Medication use / administration
+10003874,1,Death,Patient outcomes
+10003875,1,International normalised ratio fluctuation,Other / unclassified
+10003876,1,Fall,Injury / physical events
+10003876,1,Concussion,Other / unclassified
+10003876,1,Clavicle fracture,Other / unclassified
+10003876,1,Hip fracture,Other / unclassified
+10003876,1,Parkinsonism,Other / unclassified
+10003876,1,Mobility decreased,Other / unclassified
+10003876,1,Faecal incontinence,Other / unclassified
+10003876,1,Urinary incontinence,Other / unclassified
+10003876,1,Depression,Other / unclassified
+10003876,1,Memory impairment,Other / unclassified
+10003876,1,Fatigue,General symptoms
+10003876,1,Fall,Injury / physical events
+10003876,1,Pain,General symptoms
+10003876,1,Fall,Injury / physical events
+10003876,1,Fall,Injury / physical events
+10003876,1,Gait disturbance,Other / unclassified
+10003876,1,Emotional distress,Other / unclassified
+10003877,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003878,2,Medication error,Other / unclassified
+10003879,2,Dyspnoea,General symptoms
+10003879,2,Exercise tolerance decreased,Other / unclassified
+10003879,2,Product quality issue,Other / unclassified
+10003879,2,Product quality issue,Other / unclassified
+10003879,2,Product quality issue,Other / unclassified
+10003880,1,Impaired healing,Other / unclassified
+10003880,1,Calciphylaxis,Other / unclassified
+10003880,1,Diabetic complication,Other / unclassified
+10003880,1,Wound,Other / unclassified
+10003881,1,Pancreatitis acute,Other / unclassified
+10003882,1,Death,Patient outcomes
+10003883,2,Incorrect route of drug administration,Other / unclassified
+10003884,1,Gastrointestinal haemorrhage,Other / unclassified
+10003884,1,Pneumonia,Clinical conditions / laboratory findings
+10003884,1,Pulmonary oedema,Other / unclassified
+10003884,1,Failure to thrive,Other / unclassified
+10003884,1,Hypophagia,Other / unclassified
+10003885,2,Ammonia increased,Other / unclassified
+10003886,2,Coeliac disease,Other / unclassified
+10003887,1,Surgery,Other / unclassified
+10003887,1,Muscular weakness,Other / unclassified
+10003887,1,Alopecia,Other / unclassified
+10003887,1,Drug dose omission,Other / unclassified
+10003888,2,Cautery to nose,Other / unclassified
+10003888,2,Epistaxis,Other / unclassified
+10003889,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003890,1,Neoplasm malignant,Other / unclassified
+10003890,1,Pain in extremity,Other / unclassified
+10003890,1,Anaemia,Clinical conditions / laboratory findings
+10003890,1,Death,Patient outcomes
+10003890,1,Histiocytosis haematophagic,Other / unclassified
+10003891,2,Drug ineffective,Treatment effectiveness
+10003892,2,Fatigue,General symptoms
+10003893,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003894,1,Ventricular tachycardia,Other / unclassified
+10003895,2,Pain,General symptoms
+10003895,2,Anaemia,Clinical conditions / laboratory findings
+10003896,1,Melaena,Other / unclassified
+10003896,1,Asthenia,General symptoms
+10003896,1,Vertigo,Other / unclassified
+10003896,1,Duodenal ulcer,Other / unclassified
+10003896,1,Gastritis erosive,Other / unclassified
+10003896,1,Gastrointestinal haemorrhage,Other / unclassified
+10003897,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003898,2,Mood altered,Other / unclassified
+10003899,2,Flatulence,Other / unclassified
+10003899,2,Abdominal distension,Other / unclassified
+10003899,2,Diarrhoea,General symptoms
+10003900,1,Haemorrhage,Other / unclassified
+10003900,1,Red blood cell count decreased,Other / unclassified
+10003900,1,Fatigue,General symptoms
+10003900,1,Adverse event,Other / unclassified
+10003901,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003902,2,Memory impairment,Other / unclassified
+10003903,2,Dizziness,General symptoms
+10003903,2,Platelet count decreased,Other / unclassified
+10003903,2,Blood urine present,Other / unclassified
+10003903,2,Mass,Other / unclassified
+10003903,2,Vomiting,General symptoms
+10003903,2,Feeling hot,Other / unclassified
+10003903,2,Contusion,Other / unclassified
+10003904,1,Psychotic behaviour,Other / unclassified
+10003904,1,Cognitive disorder,Other / unclassified
+10003905,1,Bronchopulmonary aspergillosis,Other / unclassified
+10003905,1,Myalgia,Other / unclassified
+10003906,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003907,1,Vaginal haemorrhage,Other / unclassified
+10003907,1,Smear cervix abnormal,Other / unclassified
+10003908,2,Hospice care,Other / unclassified
+10003909,1,Febrile convulsion,Other / unclassified
+10003909,1,Helicobacter infection,Other / unclassified
+10003910,1,Death,Patient outcomes
+10003911,2,Drug ineffective,Treatment effectiveness
+10003911,2,Somnolence,General symptoms
+10003912,2,Overdose,Medication use / administration
+10003913,2,Sinus disorder,Other / unclassified
+10003913,2,Sensitivity of teeth,Other / unclassified
+10003914,1,Nephrogenic systemic fibrosis,Other / unclassified
+10003915,2,Weight increased,Other / unclassified
+10003916,1,Circulatory collapse,Other / unclassified
+10003916,1,Pneumonia aspiration,Other / unclassified
+10003916,1,White blood cell count increased,Other / unclassified
+10003916,1,Neutrophil count increased,Other / unclassified
+10003916,1,Platelet count decreased,Other / unclassified
+10003917,1,Blood lactate dehydrogenase increased,Other / unclassified
+10003917,1,White blood cell count increased,Other / unclassified
+10003917,1,Epistaxis,Other / unclassified
+10003917,1,Headache,General symptoms
+10003917,1,Influenza,Other / unclassified
+10003917,1,Nausea,General symptoms
+10003917,1,Contusion,Other / unclassified
+10003917,1,Wound haemorrhage,Other / unclassified
+10003917,1,Blood smear test abnormal,Other / unclassified
+10003917,1,Fatigue,General symptoms
+10003917,1,Adverse drug reaction,Other / unclassified
+10003917,1,Disease progression,Other / unclassified
+10003918,2,Drug ineffective,Treatment effectiveness
+10003919,2,Leukopenia,Other / unclassified
+10003919,2,Thrombocytopenia,Other / unclassified
+10003920,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003920,1,Visual impairment,Other / unclassified
+10003920,1,Neuropathy peripheral,Other / unclassified
+10003921,2,Overdose,Medication use / administration
+10003922,2,Headache,General symptoms
+10003922,2,Drug effect incomplete,Other / unclassified
+10003923,1,Increased appetite,Other / unclassified
+10003923,1,Incontinence,Other / unclassified
+10003923,1,Off label use,Other / unclassified
+10003923,1,Epistaxis,Other / unclassified
+10003923,1,Blindness,Other / unclassified
+10003923,1,Weight increased,Other / unclassified
+10003923,1,Skin cancer,Other / unclassified
+10003923,1,Nasopharyngitis,Other / unclassified
+10003923,1,Dizziness,General symptoms
+10003923,1,Dry eye,Other / unclassified
+10003923,1,Wrong technique in product usage process,Other / unclassified
+10003923,1,Pruritus,Other / unclassified
+10003923,1,Increased tendency to bruise,Other / unclassified
+10003923,1,Diarrhoea,General symptoms
+10003923,1,Constipation,Other / unclassified
+10003924,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003925,2,Overdose,Medication use / administration
+10003926,1,Apparent death,Other / unclassified
+10003926,1,General physical health deterioration,Other / unclassified
+10003926,1,Skin burning sensation,Other / unclassified
+10003926,1,Decreased appetite,Other / unclassified
+10003926,1,Weight decreased,Other / unclassified
+10003927,1,Headache,General symptoms
+10003927,1,Nausea,General symptoms
+10003927,1,Pyrexia,General symptoms
+10003927,1,Rash,Other / unclassified
+10003927,1,Myalgia,Other / unclassified
+10003927,1,Muscular weakness,Other / unclassified
+10003927,1,Gait disturbance,Other / unclassified
+10003927,1,Tremor,General symptoms
+10003928,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003929,2,Somnolence,General symptoms
+10003929,2,Condition aggravated,Other / unclassified
+10003929,2,Drug effect decreased,Other / unclassified
+10003930,1,Peripheral swelling,Other / unclassified
+10003930,1,Increased appetite,Other / unclassified
+10003930,1,Weight increased,Other / unclassified
+10003930,1,Stress,Other / unclassified
+10003931,2,Frustration,Other / unclassified
+10003931,2,Anger,Other / unclassified
+10003931,2,Drug level decreased,Other / unclassified
+10003931,2,Feeling abnormal,General symptoms
+10003931,2,Malaise,General symptoms
+10003931,2,Insomnia,General symptoms
+10003931,2,Drug dose omission,Other / unclassified
+10003931,2,Unevaluable event,Other / unclassified
+10003931,2,Agitation,Other / unclassified
+10003931,2,Unevaluable event,Other / unclassified
+10003931,2,Dizziness,General symptoms
+10003931,2,Frustration,Other / unclassified
+10003931,2,Off label use,Other / unclassified
+10003931,2,Anger,Other / unclassified
+10003931,2,Fatigue,General symptoms
+10003931,2,Eating disorder,Other / unclassified
+10003931,2,Anxiety,General symptoms
+10003932,2,Memory impairment,Other / unclassified
+10003932,2,Drug dose omission,Other / unclassified
+10003933,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003934,2,Inappropriate schedule of drug administration,Other / unclassified
+10003935,1,Hypokinesia,Other / unclassified
+10003935,1,Dehydration,Other / unclassified
+10003935,1,Drug dose omission,Other / unclassified
+10003935,1,Paralysis,Other / unclassified
+10003935,1,Quality of life decreased,Other / unclassified
+10003935,1,Speech disorder,Other / unclassified
+10003935,1,Loss of consciousness,Other / unclassified
+10003935,1,Withdrawal syndrome,Other / unclassified
+10003935,1,Dyskinesia,Other / unclassified
+10003935,1,Dysphagia,Other / unclassified
+10003936,2,Irritability,Other / unclassified
+10003937,2,Nasopharyngitis,Other / unclassified
+10003937,2,Productive cough,Other / unclassified
+10003937,2,Chronic sinusitis,Other / unclassified
+10003938,1,Cardiac arrest,Other / unclassified
+10003938,1,Anaphylactic reaction,Other / unclassified
+10003939,2,Tremor,General symptoms
+10003939,2,Head titubation,Other / unclassified
+10003940,2,Therapeutic response unexpected,Other / unclassified
+10003941,1,Interstitial lung disease,Other / unclassified
+10003941,1,Dyspnoea,General symptoms
+10003941,1,General physical health deterioration,Other / unclassified
+10003941,1,Pleural effusion,Other / unclassified
+10003941,1,Oedema,Other / unclassified
+10003941,1,Aphthous stomatitis,Other / unclassified
+10003942,2,Disorientation,Other / unclassified
+10003942,2,Phobia,Other / unclassified
+10003942,2,Feeling jittery,Other / unclassified
+10003942,2,Feeling hot,Other / unclassified
+10003942,2,Feeling jittery,Other / unclassified
+10003942,2,Phobia,Other / unclassified
+10003942,2,Insomnia,General symptoms
+10003942,2,Agitation,Other / unclassified
+10003942,2,Anxiety,General symptoms
+10003942,2,Insomnia,General symptoms
+10003942,2,Anxiety,General symptoms
+10003942,2,Mania,Other / unclassified
+10003942,2,Pain,General symptoms
+10003942,2,Nervousness,Other / unclassified
+10003942,2,Irritability,Other / unclassified
+10003942,2,Drug ineffective,Treatment effectiveness
+10003942,2,Product quality issue,Other / unclassified
+10003943,1,Peritonitis,Other / unclassified
+10003943,1,Device malfunction,Other / unclassified
+10003944,1,Cerebrovascular accident,Other / unclassified
+10003944,1,Blindness unilateral,Other / unclassified
+10003945,2,Amylase increased,Other / unclassified
+10003945,2,Lipase increased,Other / unclassified
+10003946,1,Mucosal inflammation,Other / unclassified
+10003947,2,Gingivitis,Other / unclassified
+10003947,2,Gingival erythema,Other / unclassified
+10003947,2,Gingival inflammation,Other / unclassified
+10003947,2,Gingival bleeding,Other / unclassified
+10003947,2,Gingival pain,Other / unclassified
+10003947,2,Gingival hyperplasia,Other / unclassified
+10003948,1,Convulsion,Other / unclassified
+10003949,1,Gastrointestinal stromal tumour,Other / unclassified
+10003949,1,Malaise,General symptoms
+10003949,1,Hepatic neoplasm,Other / unclassified
+10003949,1,Wrong technique in drug usage process,Other / unclassified
+10003950,1,Pancreatitis,Other / unclassified
+10003951,2,Drug ineffective,Treatment effectiveness
+10003952,1,Endometriosis,Other / unclassified
+10003952,1,Uterine leiomyoma,Other / unclassified
+10003952,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10003952,1,Central nervous system lesion,Other / unclassified
+10003952,1,Injection site pain,Other / unclassified
+10003952,1,Injection site bruising,Other / unclassified
+10003952,1,Wrong technique in drug usage process,Other / unclassified
+10003953,2,Headache,General symptoms
+10003954,2,Feeling cold,Other / unclassified
+10003954,2,White blood cell count decreased,Other / unclassified
+10003954,2,Dizziness,General symptoms
+10003955,1,Hepatocellular injury,Other / unclassified
+10003955,1,Cholestasis,Other / unclassified
+10003955,1,Pyrexia,General symptoms
+10003956,1,Myocardial infarction,Other / unclassified
+10003957,2,Drug prescribing error,Other / unclassified
+10003957,2,Drug dispensing error,Other / unclassified
+10003958,1,Kaposi^s sarcoma,Other / unclassified
+10003959,2,Splenomegaly,Other / unclassified
+10003959,2,Dyspnoea,General symptoms
+10003959,2,Insomnia,General symptoms
+10003960,1,Gastrointestinal obstruction,Other / unclassified
+10003960,1,Anaemia,Clinical conditions / laboratory findings
+10003960,1,General physical health deterioration,Other / unclassified
+10003961,2,Medication residue present,Other / unclassified
+10003962,2,Overdose,Medication use / administration
+10003963,2,Nausea,General symptoms
+10003963,2,Vomiting,General symptoms
+10003963,2,Diarrhoea,General symptoms
+10003964,2,Neutrophil count decreased,Other / unclassified
+10003965,2,Tinnitus,Other / unclassified
+10003965,2,Palpitations,Other / unclassified
+10003966,1,Abnormal behaviour,Other / unclassified
+10003966,1,Drug level increased,Other / unclassified
+10003966,1,Lethargy,Other / unclassified
+10003966,1,Irritability,Other / unclassified
+10003966,1,Obsessive-compulsive disorder,Other / unclassified
+10003966,1,Dermatillomania,Other / unclassified
+10003966,1,Activities of daily living impaired,Other / unclassified
+10003966,1,Memory impairment,Other / unclassified
+10003966,1,Bradykinesia,Other / unclassified
+10003966,1,Muscular weakness,Other / unclassified
+10003966,1,Insomnia,General symptoms
+10003966,1,Drug interaction,Other / unclassified
+10003967,1,Death,Patient outcomes
+10003968,2,Feeling abnormal,General symptoms
+10003969,2,Overdose,Medication use / administration
+10003970,1,Breast cancer,Other / unclassified
+10003970,1,Second primary malignancy,Other / unclassified
+10003970,1,Metastases to pleura,Other / unclassified
+10003970,1,Metastases to lymph nodes,Other / unclassified
+10003971,2,Fatigue,General symptoms
+10003972,1,Blood glucose increased,Other / unclassified
+10003973,2,Blood glucose increased,Other / unclassified
+10003973,2,Blood cholesterol increased,Other / unclassified
+10003973,2,Alopecia,Other / unclassified
+10003973,2,Insomnia,General symptoms
+10003973,2,Weight increased,Other / unclassified
+10003974,1,Death,Patient outcomes
+10003975,1,Death,Patient outcomes
+10003976,1,Hypomagnesaemia,Other / unclassified
+10003976,1,Drug interaction,Other / unclassified
+10003977,1,Transfusion,Other / unclassified
+10003977,1,Drug dose omission,Other / unclassified
+10003978,1,Body height below normal,Other / unclassified
+10003978,1,Congenital oral malformation,Other / unclassified
+10003978,1,Congenital cardiovascular anomaly,Other / unclassified
+10003978,1,Congenital nose malformation,Other / unclassified
+10003978,1,Tooth development disorder,Other / unclassified
+10003978,1,Visual impairment,Other / unclassified
+10003978,1,Foetal exposure during pregnancy,Other / unclassified
+10003978,1,Paternal drugs affecting foetus,Other / unclassified
+10003978,1,Corrective lens user,Other / unclassified
+10003978,1,Dysmorphism,Other / unclassified
+10003978,1,Foetal anticonvulsant syndrome,Other / unclassified
+10003978,1,Premature baby,Other / unclassified
+10003978,1,Toothache,Other / unclassified
+10003978,1,Growth retardation,Other / unclassified
+10003978,1,Congenital cardiovascular anomaly,Other / unclassified
+10003978,1,Cardiac murmur,Other / unclassified
+10003978,1,Congenital hand malformation,Other / unclassified
+10003978,1,Multiple injuries,Other / unclassified
+10003978,1,Low birth weight baby,Other / unclassified
+10003979,2,Extrasystoles,Other / unclassified
+10003980,1,Drug ineffective,Treatment effectiveness
+10003981,1,Coma,Other / unclassified
+10003981,1,Malaise,General symptoms
+10003982,1,Muscle abscess,Other / unclassified
+10003982,1,Diarrhoea,General symptoms
+10003982,1,Headache,General symptoms
+10003982,1,Platelet count decreased,Other / unclassified
+10003982,1,Gout,Other / unclassified
+10003983,2,Weight increased,Other / unclassified
+10003983,2,Joint swelling,Other / unclassified
+10003983,2,Mania,Other / unclassified
+10003983,2,Thinking abnormal,Other / unclassified
+10003983,2,Sleep disorder,Other / unclassified
+10003983,2,Joint swelling,Other / unclassified
+10003983,2,Drug interaction,Other / unclassified
+10003984,1,Stent placement,Other / unclassified
+10003984,1,Obstruction,Other / unclassified
+10003985,1,Asthenia,General symptoms
+10003985,1,Cold sweat,Other / unclassified
+10003985,1,Nausea,General symptoms
+10003985,1,Palpitations,Other / unclassified
+10003986,2,Drug intolerance,Other / unclassified
+10003986,2,Medication error,Other / unclassified
+10003987,2,Neuralgia,Other / unclassified
+10003988,2,Anxiety,General symptoms
+10003988,2,Insomnia,General symptoms
+10003988,2,Nervousness,Other / unclassified
+10003988,2,Drug withdrawal syndrome,Other / unclassified
+10003988,2,Drug ineffective,Treatment effectiveness
+10003988,2,Feeling abnormal,General symptoms
+10003989,2,Headache,General symptoms
+10003989,2,Pharyngitis,Other / unclassified
+10003990,1,Myocardial infarction,Other / unclassified
+10003991,2,Drug prescribing error,Other / unclassified
+10003992,2,Diarrhoea,General symptoms
+10003992,2,Dyspepsia,Other / unclassified
+10003992,2,Nausea,General symptoms
+10003992,2,Headache,General symptoms
+10003993,1,Metastases to bone,Other / unclassified
+10003993,1,Osteonecrosis of jaw,Other / unclassified
+10003994,1,Convulsion,Other / unclassified
+10003994,1,Tongue injury,Other / unclassified
+10003994,1,Hallucination,Other / unclassified
+10003994,1,Anticonvulsant drug level below therapeutic,Other / unclassified
+10003994,1,Injury,Injury / physical events
+10003995,2,Dyspnoea,General symptoms
+10003996,1,Appendix disorder,Other / unclassified
+10003997,2,Haemorrhage,Other / unclassified
+10003997,2,Joint swelling,Other / unclassified
+10003997,2,Adverse event,Other / unclassified
+10003997,2,Dyspnoea,General symptoms
+10003997,2,Chest discomfort,Other / unclassified
+10003997,2,Blood count abnormal,Other / unclassified
+10003998,2,Feeling abnormal,General symptoms
+10003998,2,Pneumonia,Clinical conditions / laboratory findings
+10003998,2,Suicidal ideation,Other / unclassified
+10003998,2,Psychotic disorder,Other / unclassified
+10003998,2,Unevaluable event,Other / unclassified
+10003998,2,Unevaluable event,Other / unclassified
+10003998,2,Malaise,General symptoms
+10003998,2,Drug level increased,Other / unclassified
+10003998,2,Asthenia,General symptoms
+10003998,2,Apathy,Other / unclassified
+10003998,2,Pain,General symptoms
+10003999,1,Joint dislocation,Other / unclassified
+10004000,2,Scab,Other / unclassified
+10004001,2,Adverse reaction,Other / unclassified
+10004002,2,Stomatitis,Other / unclassified
+10004003,2,Injection site rash,Other / unclassified
+10004003,2,White blood cell count decreased,Other / unclassified
+10004003,2,Rash erythematous,Other / unclassified
+10004004,1,Epilepsy,Other / unclassified
+10004004,1,Mood altered,Other / unclassified
+10004004,1,Stomatitis,Other / unclassified
+10004005,2,Nasopharyngitis,Other / unclassified
+10004005,2,Nasal congestion,Other / unclassified
+10004006,2,Nausea,General symptoms
+10004006,2,Vomiting,General symptoms
+10004006,2,Abdominal pain upper,Other / unclassified
+10004006,2,Fatigue,General symptoms
+10004006,2,Haemoglobin decreased,Clinical conditions / laboratory findings
+10004007,1,Cardiac disorder,Other / unclassified
+10004008,2,Hypothyroidism,Other / unclassified
+10004008,2,Night sweats,Other / unclassified
+10004008,2,Fatigue,General symptoms
+10004008,2,Blood count abnormal,Other / unclassified
+10004009,1,Infection,Other / unclassified
+10004010,2,Tooth loss,Other / unclassified
+10004010,2,Teeth brittle,Other / unclassified
+10004010,2,Tooth disorder,Other / unclassified
+10004010,2,Tooth fracture,Other / unclassified
+10004011,1,Investigation,Other / unclassified
+10004012,2,Pulmonary congestion,Other / unclassified
+10004012,2,Ear congestion,Other / unclassified
+10004013,1,Foot deformity,Other / unclassified
+10004014,1,Dyspnoea,General symptoms
+10004014,1,Tachycardia,Other / unclassified
+10004014,1,White blood cell count increased,Other / unclassified
+10004015,2,Medication residue present,Other / unclassified
+10004016,1,Testicular torsion,Other / unclassified
+10004017,2,Epistaxis,Other / unclassified
+10004018,1,Anaphylactic reaction,Other / unclassified
+10004018,1,Metrorrhagia,Other / unclassified
+10004018,1,Dizziness,General symptoms
+10004019,1,Multiple sclerosis relapse,Other / unclassified
+10004019,1,Dysaesthesia,Other / unclassified
+10004020,2,Tremor,General symptoms
+10004021,1,Nephrogenic systemic fibrosis,Other / unclassified
+10004022,2,Pain in jaw,Other / unclassified
+10004022,2,Pyrexia,General symptoms
+10004022,2,Flatulence,Other / unclassified
+10004022,2,Diarrhoea,General symptoms
+10004023,2,White blood cell count increased,Other / unclassified
+10004024,1,Death,Patient outcomes
+10004025,1,Bronchial carcinoma,Other / unclassified
+10004026,1,Pneumonitis,Other / unclassified
+10004026,1,Pleural effusion,Other / unclassified
+10004026,1,Radiation pneumonitis,Other / unclassified
+10004026,1,Oesophagitis,Other / unclassified
+10004026,1,Pericarditis,Other / unclassified
+10004027,1,Death,Patient outcomes
+10004027,1,Thrombosis,Other / unclassified
+10004027,1,Crohn^s disease,Other / unclassified
+10004027,1,Underdose,Other / unclassified
+10004028,2,Muscle spasms,Other / unclassified
+10004028,2,Pain in extremity,Other / unclassified
+10004028,2,Polycythaemia,Other / unclassified
+10004029,1,Embedded device,Other / unclassified
+10004029,1,Device breakage,Other / unclassified
+10004029,1,Back pain,Other / unclassified
+10004030,2,Drug dose omission,Other / unclassified
+10004031,1,Pneumonia,Clinical conditions / laboratory findings
+10004031,1,Cytomegalovirus infection,Other / unclassified
+10004031,1,Cystitis haemorrhagic,Other / unclassified
+10004031,1,Acute graft versus host disease,Other / unclassified
+10004032,2,Memory impairment,Other / unclassified
+10004032,2,Drug dose omission,Other / unclassified
+10004033,1,Death,Patient outcomes
+10004034,2,Hospice care,Other / unclassified
+10004035,2,Malaise,General symptoms
+10004035,2,Night sweats,Other / unclassified
+10004035,2,Abdominal pain,Other / unclassified
+10004035,2,Disease progression,Other / unclassified
+10004035,2,No therapeutic response,Other / unclassified
+10004036,1,Muscle spasms,Other / unclassified
+10004036,1,Urinary incontinence,Other / unclassified
+10004036,1,Anxiety,General symptoms
+10004036,1,Hyperventilation,Other / unclassified
+10004036,1,Rash pruritic,Other / unclassified
+10004036,1,Rhinorrhoea,Other / unclassified
+10004036,1,Tongue disorder,Other / unclassified
+10004036,1,Panic attack,Other / unclassified
+10004036,1,Diarrhoea,General symptoms
+10004036,1,Dry skin,Other / unclassified
+10004036,1,Skin exfoliation,Other / unclassified
+10004036,1,Skin exfoliation,Other / unclassified
+10004036,1,Acne,Other / unclassified
+10004036,1,Alopecia,Other / unclassified
+10004037,2,Chills,Other / unclassified
+10004037,2,Myalgia,Other / unclassified
+10004037,2,Headache,General symptoms
+10004037,2,Dizziness,General symptoms
+10004037,2,Nausea,General symptoms
+10004037,2,Myalgia,Other / unclassified
+10004037,2,Chills,Other / unclassified
+10004038,1,Bronchospasm,Other / unclassified
+10004038,1,Discomfort,Other / unclassified
+10004038,1,Rash,Other / unclassified
+10004038,1,Drug hypersensitivity,Hypersensitivity / allergic reactions
+10004039,2,Drug ineffective,Treatment effectiveness
+10004040,2,Device breakage,Other / unclassified
+10004040,2,No adverse event,Other / unclassified
+10004041,1,Amnesia,Other / unclassified
+10004042,2,Pain,General symptoms
+10004042,2,Pruritus,Other / unclassified
+10004042,2,Dizziness,General symptoms
+10004042,2,Pyrexia,General symptoms
+10004042,2,Asthenia,General symptoms
+10004042,2,Nausea,General symptoms
+10004043,1,Aortic dissection,Other / unclassified
+10004044,2,Overdose,Medication use / administration
+10004044,2,Accidental exposure to product by child,Other / unclassified
+10004045,1,Rash,Other / unclassified
+10004045,1,Discomfort,Other / unclassified
+10004045,1,Constipation,Other / unclassified
+10004045,1,Skin disorder,Other / unclassified
+10004045,1,Skin sensitisation,Other / unclassified
+10004045,1,Blister,Other / unclassified
+10004045,1,Jaundice,Other / unclassified
+10004046,1,Death,Patient outcomes
+10004047,2,Drug dose omission,Other / unclassified
+10004047,2,Product packaging quantity issue,Other / unclassified
+10004047,2,No adverse event,Other / unclassified
+10004048,2,Feeling abnormal,General symptoms
+10004048,2,Somnolence,General symptoms
+10004048,2,Drug effect decreased,Other / unclassified
+10004049,2,Thermal burn,Other / unclassified
+10004050,1,Death,Patient outcomes
+10004051,2,Pain,General symptoms
+10004051,2,Dizziness,General symptoms
+10004051,2,Headache,General symptoms
+10004052,1,Hypoaesthesia,Other / unclassified
+10004052,1,Tremor,General symptoms
+10004052,1,Feeling hot,Other / unclassified
+10004052,1,Hyperhidrosis,Other / unclassified
+10004052,1,Mobility decreased,Other / unclassified
+10004052,1,Asthenia,General symptoms
+10004052,1,Local swelling,Other / unclassified
+10004053,1,Fat redistribution,Other / unclassified
+10004053,1,Lipodystrophy acquired,Other / unclassified
+10004053,1,CD4 lymphocytes decreased,Other / unclassified
+10004053,1,Unevaluable event,Other / unclassified
+10004053,1,Multifocal motor neuropathy,Other / unclassified
+10004053,1,Muscle atrophy,Other / unclassified
+10004055,1,Blood count abnormal,Other / unclassified
+10004056,1,Exposure during pregnancy,Other / unclassified
+10004056,1,Drug ineffective,Treatment effectiveness
+10004056,1,Caesarean section,Other / unclassified
+10004057,2,Malaise,General symptoms
+10004057,2,Nausea,General symptoms
+10004057,2,Haemoglobin decreased,Clinical conditions / laboratory findings
+10004057,2,Headache,General symptoms
+10004058,1,Abortion spontaneous,Other / unclassified
+10004059,1,Blood fibrinogen decreased,Other / unclassified
+10004060,1,Pulmonary embolism,Other / unclassified
+10004060,1,General physical health deterioration,Other / unclassified
+10004060,1,Pain,General symptoms
+10004060,1,Injury,Injury / physical events
+10004060,1,Abdominal pain,Other / unclassified
+10004061,1,Platelet count decreased,Other / unclassified
+10004062,2,Dermatitis contact,Other / unclassified
+10004062,2,Application site pruritus,Other / unclassified
+10004062,2,Application site erythema,Other / unclassified
+10004063,2,Irritability,Other / unclassified
+10004063,2,Insomnia,General symptoms
+10004063,2,Abnormal behaviour,Other / unclassified
+10004064,1,Anxiety,General symptoms
+10004064,1,General physical health deterioration,Other / unclassified
+10004064,1,Injury,Injury / physical events
+10004064,1,Thrombosis,Other / unclassified
+10004064,1,Emotional distress,Other / unclassified
+10004064,1,Pain,General symptoms
+10004064,1,Abdominal pain,Other / unclassified
+10004065,1,Ileectomy,Other / unclassified
+10004066,2,Diabetes mellitus,Other / unclassified
+10004066,2,Urinary tract infection,Other / unclassified
+10004067,1,Anxiety,General symptoms
+10004067,1,General physical health deterioration,Other / unclassified
+10004067,1,Axillary vein thrombosis,Other / unclassified
+10004067,1,Pain,General symptoms
+10004067,1,Peripheral swelling,Other / unclassified
+10004067,1,Deep vein thrombosis,Other / unclassified
+10004067,1,Abdominal pain,Other / unclassified
+10004067,1,Emotional distress,Other / unclassified
+10004067,1,Injury,Injury / physical events
+10004067,1,Subclavian vein thrombosis,Other / unclassified
+10004068,1,Foetal heart rate decreased,Other / unclassified
+10004068,1,Foetal exposure during pregnancy,Other / unclassified
+10004068,1,Foetal heart rate increased,Other / unclassified
+10004069,2,Off label use,Other / unclassified
+10004070,2,Device breakage,Other / unclassified
+10004070,2,No adverse event,Other / unclassified
+10004071,2,Overdose,Medication use / administration
+10004072,1,Nephrogenic systemic fibrosis,Other / unclassified
+10004073,1,Vertigo,Other / unclassified
+10004073,1,Erythema,Other / unclassified
+10004074,2,Accidental overdose,Other / unclassified
+10004075,1,Tooth disorder,Other / unclassified
+10004075,1,Colitis ulcerative,Other / unclassified
+10004076,2,Drug dose omission,Other / unclassified
+10004077,1,Eye pain,Other / unclassified
+10004077,1,Ocular vascular disorder,Other / unclassified
+10004077,1,Retinal vascular disorder,Other / unclassified
+10004078,1,Deafness,Other / unclassified
+10004078,1,Ear injury,Other / unclassified
+10004079,1,Renal impairment,Clinical conditions / laboratory findings
+10004080,1,Intestinal haemorrhage,Other / unclassified
+10004080,1,Diarrhoea,General symptoms
+10004080,1,Drug ineffective,Treatment effectiveness
+10004081,1,Ocular hyperaemia,Other / unclassified
+10004081,1,Eye pain,Other / unclassified
+10004081,1,Dry eye,Other / unclassified
+10004081,1,Chest discomfort,Other / unclassified
+10004082,1,Wrist fracture,Other / unclassified
+10004082,1,Fall,Injury / physical events
+10004082,1,Hysterectomy,Other / unclassified
+10004082,1,Muscular weakness,Other / unclassified
+10004082,1,Skin discolouration,Other / unclassified
+10004082,1,Gait disturbance,Other / unclassified
+10004083,1,Hypotension,Other / unclassified
+10004084,1,Convulsion,Other / unclassified
+10004085,1,Lower gastrointestinal haemorrhage,Other / unclassified
+10004086,1,Renal failure,Other / unclassified
+10004087,2,Drug ineffective,Treatment effectiveness
+10004088,1,Pulmonary alveolar haemorrhage,Other / unclassified
+10004088,1,Graft versus host disease,Other / unclassified
+10004088,1,Cystitis haemorrhagic,Other / unclassified
+10004088,1,Adenovirus infection,Other / unclassified
+10004088,1,BK virus infection,Other / unclassified
+10004089,1,Convulsion,Other / unclassified
+10004089,1,Alcohol detoxification,Other / unclassified
+10004089,1,Loss of consciousness,Other / unclassified
+10004089,1,Alcohol withdrawal syndrome,Other / unclassified
+10004089,1,Renal failure acute,Other / unclassified
+10004089,1,Dehydration,Other / unclassified
+10004089,1,Joint injury,Other / unclassified
+10004089,1,Tongue injury,Other / unclassified
+10004089,1,Swollen tongue,Other / unclassified
+10004089,1,Electrolyte imbalance,Other / unclassified
+10004089,1,Dysarthria,Other / unclassified
+10004089,1,Fall,Injury / physical events
+10004089,1,Laceration,Other / unclassified
+10004089,1,Gait disturbance,Other / unclassified
+10004089,1,Headache,General symptoms
+10004089,1,Drug ineffective,Treatment effectiveness
+10004090,1,Pancreatitis acute,Other / unclassified
+10004090,1,Blood glucose increased,Other / unclassified
+10004091,1,Bone marrow failure,Other / unclassified
+10004091,1,Pyrexia,General symptoms
+10004091,1,Neutropenia,Other / unclassified
+10004091,1,Leukopenia,Other / unclassified
+10004091,1,Thrombocytopenia,Other / unclassified
+10004091,1,Pancytopenia,Other / unclassified
+10004091,1,Tonsillitis,Other / unclassified
+10004091,1,Cough,General symptoms
+10004091,1,Tonsillar hypertrophy,Other / unclassified
+10004091,1,Purulent discharge,Other / unclassified
+10004091,1,Pharyngeal erythema,Other / unclassified
+10004091,1,Odynophagia,Other / unclassified
+10004091,1,Lymphadenopathy,Other / unclassified
+10004091,1,Productive cough,Other / unclassified
+10004092,1,Large intestine polyp,Other / unclassified
+10004092,1,Diarrhoea,General symptoms
+10004092,1,Blood potassium increased,Other / unclassified
+10004093,1,Hyperthermia malignant,Other / unclassified
+10004094,1,Abasia,Other / unclassified
+10004095,1,Death,Patient outcomes
+10004095,1,Cerebrovascular accident,Other / unclassified
+10004095,1,Cerebral haemorrhage,Other / unclassified
+10004095,1,Drooling,Other / unclassified
+10004096,1,Haematochezia,Other / unclassified
+10004096,1,Diverticulum,Other / unclassified
+10004097,2,Incorrect dose administered,Other / unclassified
+10004097,2,Product physical issue,Other / unclassified
+10004098,1,Paraesthesia,Other / unclassified
+10004098,1,Asthenia,General symptoms
+10004098,1,Back pain,Other / unclassified
+10004098,1,Dyspepsia,Other / unclassified
+10004098,1,Constipation,Other / unclassified
+10004098,1,Renal function test abnormal,Other / unclassified
+10004098,1,Pruritus,Other / unclassified
+10004098,1,Throat irritation,Other / unclassified
+10004098,1,Diarrhoea,General symptoms
+10004098,1,Nasal discomfort,Other / unclassified
+10004098,1,Malaise,General symptoms
+10004098,1,Multiple sclerosis relapse,Other / unclassified
+10004098,1,Urinary tract infection,Other / unclassified
+10004098,1,Dizziness,General symptoms
+10004098,1,Headache,General symptoms
+10004098,1,Nausea,General symptoms
+10004099,1,Cerebrovascular accident,Other / unclassified
+10004100,1,Death,Patient outcomes
+10004101,2,Rash,Other / unclassified
+10004102,1,Blood alkaline phosphatase increased,Other / unclassified
+10004102,1,Transaminases increased,Other / unclassified
+10004102,1,Gamma-glutamyltransferase increased,Other / unclassified
+10004103,1,Electrocardiogram abnormal,Other / unclassified
+10004103,1,Left ventricular dysfunction,Other / unclassified
+10004103,1,Sinus tachycardia,Other / unclassified
+10004104,1,Nephrogenic systemic fibrosis,Other / unclassified
+10004105,1,Foetal cardiac disorder,Other / unclassified
+10004105,1,Off label use,Other / unclassified
+10004105,1,Exposure during pregnancy,Other / unclassified
+10004106,2,Eye haemorrhage,Other / unclassified
+10004107,2,Menorrhagia,Other / unclassified
+10004108,2,Dysphonia,Other / unclassified
+10004109,1,Ocular hyperaemia,Other / unclassified
+10004109,1,Lacrimation increased,Other / unclassified
+10004109,1,Dry eye,Other / unclassified
+10004110,1,Skin lesion,Other / unclassified
+10004110,1,Lymphadenopathy,Other / unclassified
+10004110,1,Lymph node pain,Other / unclassified
+10004110,1,Basal cell carcinoma,Other / unclassified
+10004110,1,Seborrhoeic keratosis,Other / unclassified
+10004110,1,Fall,Injury / physical events
+10004111,2,Rash,Other / unclassified
+10004111,2,Headache,General symptoms
+10004112,1,Uterine perforation,Other / unclassified
+10004112,1,Injury,Injury / physical events
+10004112,1,Pain,General symptoms
+10004112,1,Emotional distress,Other / unclassified
+10004113,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10004114,2,Oral mucosal erythema,Other / unclassified
+10004114,2,Oral pain,Other / unclassified
+10004114,2,Abdominal tenderness,Other / unclassified
+10004115,2,Somnolence,General symptoms
+10004115,2,Drug ineffective,Treatment effectiveness
+10004116,1,Thrombocytopenia,Other / unclassified
+10004116,1,Petechiae,Other / unclassified
+10004117,1,Suicidal ideation,Other / unclassified
+10004117,1,Depressed mood,Other / unclassified
+10004117,1,Nightmare,Other / unclassified
+10004118,1,Haemoglobin decreased,Clinical conditions / laboratory findings
+10004119,2,Drug ineffective,Treatment effectiveness
+10004120,1,Acute myocardial infarction,Other / unclassified
+10004121,1,Malignant neoplasm progression,Other / unclassified
+10004121,1,General physical health deterioration,Other / unclassified
+10004122,1,Death,Patient outcomes
+10004123,1,Alanine aminotransferase increased,Other / unclassified
+10004123,1,Aspartate aminotransferase increased,Other / unclassified
+10004123,1,Fatigue,General symptoms
+10004123,1,Abdominal pain upper,Other / unclassified
+10004123,1,Injection site discolouration,Other / unclassified
+10004123,1,Injection site pruritus,Other / unclassified
+10004123,1,Unevaluable event,Other / unclassified
+10004124,2,Device difficult to use,Other / unclassified
+10004124,2,Product quality issue,Other / unclassified
+10004125,2,Dizziness,General symptoms
+10004125,2,Hypoaesthesia,Other / unclassified
+10004126,1,Blepharospasm,Other / unclassified
+10004126,1,Aggression,Other / unclassified
+10004126,1,Anger,Other / unclassified
+10004126,1,Violence-related symptom,Other / unclassified
+10004126,1,Suicidal ideation,Other / unclassified
+10004127,1,Uterine perforation,Other / unclassified
+10004127,1,Device dislocation,Other / unclassified
+10004128,2,Device expulsion,Other / unclassified
+10004129,1,Infusion site erythema,Other / unclassified
+10004129,1,Chills,Other / unclassified
+10004130,2,Laboratory test abnormal,Other / unclassified
+10004130,2,Contusion,Other / unclassified
+10004130,2,Drug dose omission,Other / unclassified
+10004130,2,Platelet count increased,Other / unclassified
+10004130,2,Hypertension,Other / unclassified
+10004130,2,Treatment noncompliance,Other / unclassified
+10004130,2,Eye disorder,Other / unclassified
+10004130,2,White blood cell count increased,Other / unclassified
+10004130,2,Pain,General symptoms
+10004131,1,Emotional distress,Other / unclassified
+10004131,1,Pain,General symptoms
+10004131,1,Embedded device,Other / unclassified
+10004131,1,Injury,Injury / physical events
+10004132,1,Platelet count decreased,Other / unclassified
+10004132,1,Pyrexia,General symptoms
+10004132,1,Prostatic specific antigen increased,Other / unclassified
+10004132,1,Bone pain,Other / unclassified
+10004133,1,Respiratory arrest,Other / unclassified
+10004133,1,Pleural effusion,Other / unclassified
+10004134,1,Uterine perforation,Other / unclassified
+10004134,1,Injury,Injury / physical events
+10004134,1,Pain,General symptoms
+10004134,1,Emotional distress,Other / unclassified
+10004135,2,Drug eruption,Other / unclassified
+10004136,1,Oropharyngeal spasm,Other / unclassified
+10004136,1,Respiratory disorder,Other / unclassified
+10004136,1,Dysphagia,Other / unclassified
+10004136,1,Psychomotor hyperactivity,Other / unclassified
+10004136,1,Salivary hypersecretion,Other / unclassified
+10004136,1,Dysarthria,Other / unclassified
+10004136,1,Sensation of foreign body,Other / unclassified
+10004137,1,Melaena,Other / unclassified
+10004138,2,Pneumonia,Clinical conditions / laboratory findings
+10004138,2,Anaemia,Clinical conditions / laboratory findings
+10004139,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10004140,2,Nausea,General symptoms
+10004140,2,Drug administration error,Medication use / administration
+10004141,1,Hepatic lesion,Other / unclassified
+10004141,1,Malignant neoplasm progression,Other / unclassified
+10004141,1,Gastric cancer,Other / unclassified
+10004141,1,Product use issue,Other / unclassified
+10004142,1,Seizure like phenomena,Other / unclassified
+10004142,1,Myoclonus,Other / unclassified
+10004143,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10004144,2,Flatulence,Other / unclassified
+10004145,2,Overdose,Medication use / administration
+10004146,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10004147,2,Drug dose omission,Other / unclassified
+10004147,2,Blood count abnormal,Other / unclassified
+10004148,1,Rash pruritic,Other / unclassified
+10004148,1,Generalised erythema,Other / unclassified
+10004149,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10004150,1,Uterine perforation,Other / unclassified
+10004150,1,Injury,Injury / physical events
+10004150,1,Pain,General symptoms
+10004150,1,Emotional distress,Other / unclassified
+10004151,2,Therapeutic response unexpected,Other / unclassified
+10004152,1,Urticaria,Other / unclassified
+10004152,1,Erythema,Other / unclassified
+10004152,1,Pruritus,Other / unclassified
+10004152,1,Drug interaction,Other / unclassified
+10004153,1,Hip fracture,Other / unclassified
+10004153,1,Fall,Injury / physical events
+10004153,1,Urinary tract infection,Other / unclassified
+10004154,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10004155,1,Death,Patient outcomes
+10004156,1,Device dislocation,Other / unclassified
+10004157,2,Menstruation irregular,Other / unclassified
+10004158,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10004159,2,Bronchitis,Other / unclassified
+10004160,2,Device expulsion,Other / unclassified
+10004161,2,Menstruation delayed,Other / unclassified
+10004162,2,Fatigue,General symptoms
+10004162,2,Stomatitis,Other / unclassified
+10004162,2,Haemoglobin decreased,Clinical conditions / laboratory findings
+10004162,2,Platelet count decreased,Other / unclassified
+10004162,2,Weight increased,Other / unclassified
+10004163,2,Decreased appetite,Other / unclassified
+10004163,2,Depression,Other / unclassified
+10004164,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10004165,2,Toothache,Other / unclassified
+10004166,2,Cough,General symptoms
+10004167,1,Uterine perforation,Other / unclassified
+10004167,1,Injury,Injury / physical events
+10004167,1,Pain,General symptoms
+10004167,1,Emotional distress,Other / unclassified
+10004168,2,Dysgeusia,Other / unclassified
+10004168,2,Dry mouth,Other / unclassified
+10004168,2,Dysphagia,Other / unclassified
+10004168,2,Peripheral sensory neuropathy,Other / unclassified
+10004168,2,Alopecia,Other / unclassified
+10004168,2,Constipation,Other / unclassified
+10004168,2,Oedema,Other / unclassified
+10004168,2,Hypersensitivity,Other / unclassified
+10004168,2,Stomatitis,Other / unclassified
+10004168,2,Diarrhoea,General symptoms
+10004168,2,Decreased appetite,Other / unclassified
+10004168,2,Skin fissures,Other / unclassified
+10004168,2,Nausea,General symptoms
+10004168,2,Dermatitis acneiform,Other / unclassified
+10004168,2,Skin reaction,Other / unclassified
+10004168,2,Vomiting,General symptoms
+10004168,2,Radiation skin injury,Other / unclassified
+10004169,2,Influenza like illness,Other / unclassified
+10004169,2,Local swelling,Other / unclassified
+10004170,1,Transient ischaemic attack,Other / unclassified
+10004171,2,Unevaluable event,Other / unclassified
+10004172,1,Traumatic haematoma,Other / unclassified
+10004173,1,Uterine perforation,Other / unclassified
+10004173,1,Injury,Injury / physical events
+10004173,1,Pain,General symptoms
+10004173,1,Emotional distress,Other / unclassified
+10004173,1,Psychological trauma,Other / unclassified
+10004174,2,Menorrhagia,Other / unclassified
+10004174,2,Medical device complication,Other / unclassified
+10004175,1,Skin discolouration,Other / unclassified
+10004175,1,Rash,Other / unclassified
+10004176,1,Death,Patient outcomes
+10004177,2,Malaise,General symptoms
+10004177,2,Insomnia,General symptoms
+10004177,2,Fatigue,General symptoms
+10004177,2,Asthenia,General symptoms
+10004178,1,Neoplasm progression,Other / unclassified
+10004179,2,Platelet count increased,Other / unclassified
+10004179,2,Abdominal discomfort,Other / unclassified
+10004179,2,Hypoaesthesia,Other / unclassified
+10004179,2,Paraesthesia,Other / unclassified
+10004179,2,Nausea,General symptoms
+10004179,2,Headache,General symptoms
+10004179,2,Dizziness,General symptoms
+10004179,2,Contusion,Other / unclassified
+10004179,2,Ecchymosis,Other / unclassified
+10004180,1,Overdose,Medication use / administration
+10004180,1,Dyspnoea,General symptoms
+10004180,1,Lung infection,Other / unclassified
+10004181,2,Nasal congestion,Other / unclassified
+10004182,2,Inappropriate schedule of drug administration,Other / unclassified
+10004183,2,Weight loss poor,Other / unclassified
+10004184,2,Pain,General symptoms
+10004184,2,Insomnia,General symptoms
+10004185,2,Overdose,Medication use / administration
+10004186,1,Thrombotic microangiopathy,Other / unclassified
+10004186,1,Renal impairment,Clinical conditions / laboratory findings
+10004186,1,Hepatic failure,Other / unclassified
+10004186,1,Mental status changes,Other / unclassified
+10004186,1,Stem cell transplant,Other / unclassified
+10004186,1,Graft versus host disease,Other / unclassified
+10004186,1,Fatigue,General symptoms
+10004186,1,Drug administration error,Medication use / administration
+10004187,2,Overdose,Medication use / administration
+10004188,1,Cognitive disorder,Other / unclassified
+10004188,1,Anxiety,General symptoms
+10004188,1,Depression,Other / unclassified
+10004188,1,Sexual dysfunction,Other / unclassified
+10004188,1,Blood testosterone free decreased,Other / unclassified
+10004188,1,Tri-iodothyronine uptake increased,Other / unclassified
+10004188,1,Back pain,Other / unclassified
+10004188,1,Type 2 diabetes mellitus,Clinical conditions / laboratory findings
+10004188,1,Hepatitis C,Other / unclassified
+10004188,1,Insomnia,General symptoms
+10004188,1,Blood cholesterol increased,Other / unclassified
+10004188,1,Benign prostatic hyperplasia,Other / unclassified
+10004188,1,Urinary tract obstruction,Other / unclassified
+10004188,1,Drug dependence,Other / unclassified
+10004188,1,Erectile dysfunction,Other / unclassified
+10004189,2,Heart rate increased,Other / unclassified
+10004190,2,Overdose,Medication use / administration
+10004191,2,Vitreous floaters,Other / unclassified
+10004191,2,Contusion,Other / unclassified
+10004191,2,Weight increased,Other / unclassified
+10004191,2,Headache,General symptoms
+10004192,2,Muscle spasms,Other / unclassified
+10004192,2,Oedema peripheral,Other / unclassified
+10004193,2,Increased bronchial secretion,Other / unclassified
+10004194,2,No adverse event,Other / unclassified
+10004194,2,Bone marrow transplant,Other / unclassified
+10004195,1,Abdominal pain upper,Other / unclassified
+10004195,1,Diarrhoea,General symptoms
+10004195,1,Vomiting,General symptoms
+10004196,1,Infusion related reaction,Other / unclassified
+10004196,1,Generalised erythema,Other / unclassified
+10004196,1,Pruritus,Other / unclassified
+10004196,1,Macroglossia,Other / unclassified
+10004196,1,Dyspnoea,General symptoms
+10004197,2,Migraine,Other / unclassified
+10004198,2,Platelet count abnormal,Other / unclassified
+10004198,2,Platelet count decreased,Other / unclassified
+10004198,2,Haemoglobin decreased,Clinical conditions / laboratory findings
+10004199,2,Malaise,General symptoms
+10004199,2,Menstruation irregular,Other / unclassified
+10004200,2,Fall,Injury / physical events
+10004200,2,Injury,Injury / physical events
+10004201,2,Vomiting,General symptoms
+10004201,2,Nausea,General symptoms
+10004201,2,Menstruation irregular,Other / unclassified
+10004202,2,Blister,Other / unclassified
+10004202,2,Hyperhidrosis,Other / unclassified
+10004202,2,Skin irritation,Other / unclassified
+10004202,2,Anaemia,Clinical conditions / laboratory findings
+10004203,1,Malignant neoplasm progression,Other / unclassified
+10004203,1,Pancytopenia,Other / unclassified
