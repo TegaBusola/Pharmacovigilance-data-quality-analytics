@@ -2,7 +2,70 @@
 from pathlib import Path
 
 import pandas as pd
+import plotly.express as px
 import streamlit as st
+
+
+# Page configuration
+st.set_page_config(
+    page_title="Pharmacovigilance Analytics",
+    page_icon="📊",
+    layout="wide"
+)
+
+
+# Dashboard styling
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-color: #0B1F33;
+        color: #F2F5F8;
+    }
+
+    [data-testid="stHeader"] {
+        background-color: #0B1F33;
+    }
+
+    [data-testid="stMetric"] {
+        background-color: #142E46;
+        border: 1px solid #29465F;
+        padding: 18px 20px;
+        border-radius: 10px;
+    }
+
+    [data-testid="stMetricLabel"] {
+        color: #C4D3E0;
+    }
+
+    [data-testid="stMetricValue"] {
+        color: #FFFFFF;
+    }
+
+    h1, h2, h3 {
+        color: #FFFFFF;
+    }
+
+    p, li, label {
+        color: #E0E8EF;
+    }
+
+    [data-testid="stCaptionContainer"] {
+        color: #B4C5D4;
+    }
+
+    [data-testid="stDataFrame"] {
+        border: 1px solid #29465F;
+        border-radius: 8px;
+    }
+
+    hr {
+        border-color: #29465F;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 
 # Project data locations
@@ -26,13 +89,8 @@ reports, reactions = load_data()
 
 
 # Dashboard title
-st.set_page_config(
-    page_title="Pharmacovigilance Analytics",
-    page_icon="📊",
-    layout="wide"
-)
-
 st.title("Pharmacovigilance Analytics")
+
 st.caption(
     "Adverse-event data quality, review prioritisation "
     "and reaction analysis"
@@ -59,7 +117,6 @@ with col4:
     st.metric("Unique reaction terms", f"{unique_terms:,}")
 
 
-
 # Overview section
 st.header("Overview")
 
@@ -70,6 +127,7 @@ st.markdown(
     data quality, review prioritisation and reaction patterns.
     """
 )
+
 
 # Report seriousness distribution
 st.subheader("Report seriousness")
@@ -84,12 +142,58 @@ seriousness_counts = (
     .value_counts()
 )
 
-col1, col2 = st.columns([2, 1])
+# Donut chart
+seriousness_colours = {
+    "Serious": "#56B4E9",
+    "Not classified as serious": "#E69F00",
+    "Unknown": "#B8A1CF"
+}
 
-with col1:
-    st.bar_chart(seriousness_counts)
+fig = px.pie(
+    names=seriousness_counts.index,
+    values=seriousness_counts.values,
+    hole=0.58,
+    color=seriousness_counts.index,
+    color_discrete_map=seriousness_colours
+)
 
-with col2:
+fig.update_traces(
+    textposition="inside",
+    textinfo="label+percent",
+    textfont=dict(
+        color="#FFFFFF",
+        size=13
+    ),
+    hovertemplate=(
+        "<b>%{label}</b><br>"
+        "Reports: %{value:,}<br>"
+        "Percentage: %{percent}"
+        "<extra></extra>"
+    )
+)
+
+fig.update_layout(
+    showlegend=False,
+    height=350,
+    margin=dict(l=10, r=10, t=15, b=15),
+    paper_bgcolor="rgba(0,0,0,0)",
+    plot_bgcolor="rgba(0,0,0,0)",
+    font=dict(
+        color="#F2F5F8",
+        size=13
+    )
+)
+
+chart_col, breakdown_col = st.columns([2, 1])
+
+with chart_col:
+    st.plotly_chart(
+        fig,
+        use_container_width=True,
+        config={"displayModeBar": False}
+    )
+
+with breakdown_col:
     st.write("**Report breakdown**")
 
     for category, count in seriousness_counts.items():
@@ -98,6 +202,7 @@ with col2:
         st.write(
             f"**{category}:** {count:,} ({percentage:.1f}%)"
         )
+
 
 # Data quality section
 st.header("Data quality")
@@ -130,6 +235,7 @@ st.caption(
     "they do not represent a comprehensive assessment of report quality."
 )
 
+
 # Review prioritisation section
 st.header("Review prioritisation")
 
@@ -141,7 +247,6 @@ st.markdown(
     """
 )
 
-# Count reports flagged for each reason
 reason_counts = pd.Series({
     "Selected event term": reports["selected_event_term"].sum(),
     "Missing key data": reports["missing_key_data"].sum(),
@@ -166,6 +271,8 @@ with col2:
         "A report may have more than one reason for being flagged. "
         "Reason counts are therefore not necessarily unique reports."
     )
+
+
 # Reaction analysis section
 st.header("Reaction analysis")
 
@@ -177,7 +284,6 @@ st.markdown(
     """
 )
 
-# Reaction category distribution
 st.subheader("Reaction categories")
 
 category_counts = reactions["reaction_category"].value_counts()
@@ -192,6 +298,7 @@ st.caption(
 
 st.divider()
 
+
 # Most frequently reported reaction terms
 st.subheader("Most frequently reported reaction terms")
 
@@ -203,6 +310,7 @@ top_reactions = (
 
 st.bar_chart(top_reactions)
 
+
 # Report explorer
 st.header("Report explorer")
 
@@ -210,7 +318,6 @@ st.markdown(
     "Use the filters below to explore the available adverse-event reports."
 )
 
-# Create readable seriousness labels
 explorer_reports = reports.copy()
 
 explorer_reports["seriousness_label"] = (
@@ -222,7 +329,6 @@ explorer_reports["seriousness_label"] = (
     .fillna("Unknown")
 )
 
-# Filters
 filter_col1, filter_col2 = st.columns(2)
 
 with filter_col1:
@@ -246,6 +352,7 @@ with filter_col2:
         ]
     )
 
+
 # Apply filters
 filtered_reports = explorer_reports.copy()
 
@@ -266,7 +373,6 @@ elif review_filter == "Not flagged":
 
 st.write(f"**Reports matching filters: {len(filtered_reports):,}**")
 
-# Display selected report fields
 display_columns = [
     "report_id",
     "receivedate",
@@ -281,6 +387,7 @@ st.dataframe(
     use_container_width=True,
     hide_index=True
 )
+
 
 # Interpretation and limitations
 st.header("Interpretation and limitations")
@@ -318,4 +425,3 @@ st.caption(
     "Data source: FDA openFDA Adverse Event Reporting System (FAERS). "
     "Portfolio project for demonstration and educational purposes."
 )
-
